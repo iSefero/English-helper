@@ -34,6 +34,12 @@ export default function LessonCard({
           {formattedDate}
           <div>
             <Button
+              disabled={showOption === "all"}
+              onClick={() => setShowOption("all")}
+            >
+              All
+            </Button>
+            <Button
               disabled={showOption === "term"}
               onClick={() => setShowOption("term")}
             >
