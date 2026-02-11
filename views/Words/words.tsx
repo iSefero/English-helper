@@ -1782,7 +1782,7 @@ export const lessons = [
       },
       {
         term: "neat",
-        translation: "охайний",
+        translation: "охайний, чистий(напої), акуратний",
         examples: [
           <span>
             She keeps her desk very <strong>neat</strong>.
