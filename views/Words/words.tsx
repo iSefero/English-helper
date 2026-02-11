@@ -1,6 +1,6 @@
 export const lessons = [
   {
-    date: "18.12.2026",
+    date: "12.18.2025",
     words: [
       {
         term: "advantages",
@@ -380,7 +380,7 @@ export const lessons = [
     ],
   },
   {
-    date: "23.12.2025",
+    date: "12.23.2025",
     words: [
       {
         term: "her voice distracted you",
@@ -565,7 +565,7 @@ export const lessons = [
     ],
   },
   {
-    date: "25.12.2025",
+    date: "12.25.2025",
     words: [
       {
         term: "owe",
@@ -660,7 +660,7 @@ export const lessons = [
     ],
   },
   {
-    date: "13.01.2026",
+    date: "01.13.2026",
     words: [
       {
         term: "vivid memory",
@@ -920,7 +920,7 @@ export const lessons = [
     ],
   },
   {
-    date: "15.01.2026",
+    date: "01.15.2026",
     words: [
       {
         term: "to binge-watch",
@@ -1211,7 +1211,7 @@ export const lessons = [
     ],
   },
   {
-    date: "20.01.2026",
+    date: "01.20.2026",
     words: [
       {
         term: "to postpone",
@@ -1351,7 +1351,7 @@ export const lessons = [
     ],
   },
   {
-    date: "22.01.2026",
+    date: "01.22.2026",
     words: [
       {
         term: "to purchase",
@@ -1716,7 +1716,7 @@ export const lessons = [
     ],
   },
   {
-    date: "27.01.2026",
+    date: "01.27.2026",
     words: [
       {
         term: "point of view",
@@ -1798,7 +1798,7 @@ export const lessons = [
     ],
   },
   {
-    date: "29.01.2026",
+    date: "01.29.2026",
     words: [
       {
         term: "it takes me",
@@ -1911,7 +1911,7 @@ export const lessons = [
     ],
   },
   {
-    date: "03.02.2026",
+    date: "02.03.2026",
     words: [
       {
         term: "a bargain",
@@ -2144,7 +2144,7 @@ export const lessons = [
     ],
   },
   {
-    date: "05.02.2026",
+    date: "02.05.2026",
     words: [
       {
         term: "we ran out of coffee",
@@ -2330,7 +2330,7 @@ export const lessons = [
     ],
   },
   {
-    date: "10.02.2026",
+    date: "02.10.2026",
     words: [
       {
         term: "to look forward",

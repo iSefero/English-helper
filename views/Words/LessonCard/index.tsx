@@ -9,7 +9,6 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { lessons } from "./../words";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
-import { cn } from "@/lib/utils";
 import LessonWords from "../LessonWords";
 
 export default function LessonCard({
@@ -21,11 +20,18 @@ export default function LessonCard({
     "term",
   );
 
+  const date = new Date(lesson.date);
+  const formattedDate = date.toLocaleDateString("en-US", {
+    month: "long",
+    day: "2-digit",
+    year: "numeric",
+  });
+
   return (
     <Card key={lesson.date} className="w-full">
       <CardHeader>
         <CardTitle className="flex items-center justify-between">
-          {lesson.date}
+          {formattedDate}
           <div>
             <Button
               disabled={showOption === "term"}
