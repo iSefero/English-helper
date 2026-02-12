@@ -2425,4 +2425,145 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "02.12.2026",
+    words: [
+      {
+        term: "litter",
+        translation: "сміття (розкидане), засмічувати",
+        examples: [
+          <span>
+            The park was full of <strong>litter</strong>.
+          </span>,
+          <span>
+            Please don’t drop <strong>litter</strong> on the street.
+          </span>,
+          <span>
+            It’s illegal to <strong>litter</strong> in this area.
+          </span>,
+        ],
+      },
+      {
+        term: "refugees",
+        translation: "біженці",
+        examples: [
+          <span>
+            Many <strong>refugees</strong> left the country because of the war.
+          </span>,
+          <span>
+            The city welcomed <strong>refugees</strong> from abroad.
+          </span>,
+          <span>
+            Food and shelter were provided for the <strong>refugees</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to flee (fled, fled)",
+        translation: "тікати, втікати, рятуватися втечею",
+        examples: [
+          <span>
+            They <strong>fled</strong> the burning building.
+          </span>,
+          <span>
+            Thousands of people had to <strong>flee</strong> their homes.
+          </span>,
+          <span>
+            The thief <strong>fled</strong> the scene.
+          </span>,
+        ],
+      },
+      {
+        term: "to report a crime",
+        translation: "повідомити про злочин",
+        examples: [
+          <span>
+            You should <strong>report a crime</strong> to the police
+            immediately.
+          </span>,
+          <span>
+            She decided to <strong>report the crime</strong>.
+          </span>,
+          <span>
+            He called 911 to <strong>report a crime</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "a criminal",
+        translation: "злочинець",
+        examples: [
+          <span>
+            The police arrested the <strong>criminal</strong>.
+          </span>,
+          <span>
+            The <strong>criminal</strong> was sentenced to prison.
+          </span>,
+          <span>
+            They are searching for a dangerous <strong>criminal</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "deaf",
+        translation: "глухий",
+        examples: [
+          <span>
+            He was born <strong>deaf</strong>.
+          </span>,
+          <span>
+            She is <strong>deaf</strong> in one ear.
+          </span>,
+          <span>
+            The device helps <strong>deaf</strong> people communicate.
+          </span>,
+        ],
+      },
+      {
+        term: "deafening music",
+        translation: "оглушлива музика",
+        examples: [
+          <span>
+            The club played <strong>deafening music</strong> all night.
+          </span>,
+          <span>
+            I couldn’t hear you over the <strong>deafening music</strong>.
+          </span>,
+          <span>
+            The speakers produced <strong>deafening music</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "get off",
+        translation: "виходити (з транспорту), злізати",
+        examples: [
+          <span>
+            We <strong>got off</strong> the bus at the next stop.
+          </span>,
+          <span>
+            Please <strong>get off</strong> the train carefully.
+          </span>,
+          <span>
+            He <strong>got off</strong> his bike quickly.
+          </span>,
+        ],
+      },
+      {
+        term: "trust your gut",
+        translation: "довіряй своїй інтуїції",
+        examples: [
+          <span>
+            Sometimes you just have to <strong>trust your gut</strong>.
+          </span>,
+          <span>
+            I didn’t have proof, but I <strong>trusted my gut</strong>.
+          </span>,
+          <span>
+            <strong>Trust your gut</strong> when making important decisions.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
