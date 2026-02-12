@@ -17,7 +17,7 @@ export default function LessonCard({
   lesson: (typeof lessons)[0];
 }) {
   const [showOption, setShowOption] = useState<"term" | "translation" | "all">(
-    "term",
+    "all",
   );
 
   const date = new Date(lesson.date);
