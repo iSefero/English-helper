@@ -2564,6 +2564,23 @@ export const lessons = [
           </span>,
         ],
       },
+      {
+        term: "stationery store",
+        translation: "магазин канцелярії, канцелярський магазин",
+        examples: [
+          <span>
+            I bought some pens and notebooks at the{" "}
+            <strong>stationery store</strong>.
+          </span>,
+          <span>
+            There’s a small <strong>stationery store</strong> near my school.
+          </span>,
+          <span>
+            She went to the <strong>stationery store</strong> to print the
+            documents.
+          </span>,
+        ],
+      },
     ],
   },
 ];
