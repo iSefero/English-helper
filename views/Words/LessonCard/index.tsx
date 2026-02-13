@@ -3,22 +3,28 @@ import {
   Accordion,
   AccordionContent,
   AccordionItem,
-  AccordionTrigger,
 } from "@/components/ui/accordion";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { lessons } from "./../words";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import LessonWords from "../LessonWords";
+import { useBreakpoint } from "@/hooks/useBreakpoint";
+import MobileLessonWords from "../MobileLessonWords";
+import { FontSize } from "@/types/common";
+import { memo } from "react";
 
-export default function LessonCard({
+function LessonCard({
   lesson,
+  fontSize,
 }: {
   lesson: (typeof lessons)[0];
+  fontSize: FontSize;
 }) {
   const [showOption, setShowOption] = useState<"term" | "translation" | "all">(
     "all",
   );
+  const breakpoint = useBreakpoint();
 
   const date = new Date(lesson.date);
   const formattedDate = date.toLocaleDateString("en-US", {
@@ -27,11 +33,33 @@ export default function LessonCard({
     year: "numeric",
   });
 
+  const showAccordionItem = (word: (typeof lesson.words)[0]) => {
+    if (breakpoint === "xl" || breakpoint === "2xl") {
+      return (
+        <LessonWords word={word} showOption={showOption} fontSize={fontSize} />
+      );
+    }
+    if (
+      breakpoint === "xs" ||
+      breakpoint === "sm" ||
+      breakpoint === "md" ||
+      breakpoint === "lg"
+    ) {
+      return (
+        <MobileLessonWords
+          word={word}
+          hidedOption={showOption}
+          fontSize={fontSize}
+        />
+      );
+    }
+  };
+
   return (
-    <Card key={lesson.date} className="w-full">
+    <Card key={lesson.date} className="w-full gap-8">
       <CardHeader>
         <CardTitle className="flex items-center justify-between">
-          {formattedDate}
+          <span className="text-xl font-bold">{formattedDate}</span>
           <div>
             <Button
               disabled={showOption === "all"}
@@ -54,16 +82,16 @@ export default function LessonCard({
           </div>
         </CardTitle>
       </CardHeader>
-      <CardContent>
+      <CardContent className="flex flex-col gap-2">
         {lesson.words.map((word) => (
           <Accordion type="single" collapsible key={word.term}>
             <AccordionItem value={word.term}>
-              <AccordionTrigger key={word.term}>
-                <LessonWords word={word} showOption={showOption} />
-              </AccordionTrigger>
-              <AccordionContent>
+              {showAccordionItem(word)}
+              <AccordionContent className="border-b">
                 {word.examples.map((example, index) => (
-                  <p key={index}>{example}</p>
+                  <p className={`text-${fontSize}`} key={index}>
+                    - {example}
+                  </p>
                 ))}
               </AccordionContent>
             </AccordionItem>
@@ -73,3 +101,5 @@ export default function LessonCard({
     </Card>
   );
 }
+
+export default memo(LessonCard);

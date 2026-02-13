@@ -11,7 +11,7 @@ export default function MainLayout({
     <>
       <AppHeader />
       <main className="w-full p-4">
-        <div className="m-auto max-w-[1400px] flex justify-center">
+        <div className="m-auto max-w-[1600px] flex justify-center">
           {children}
         </div>
       </main>
