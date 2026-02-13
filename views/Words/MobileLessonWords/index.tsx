@@ -16,8 +16,8 @@ export default function LessonWords({
 }) {
   const [revealed, setRevealed] = useState(false);
 
-  const hideTerm = hidedOption === "term" && !revealed;
-  const hideTranslation = hidedOption === "translation" && !revealed;
+  const hideTerm = hidedOption === "translation" && !revealed;
+  const hideTranslation = hidedOption === "term" && !revealed;
 
   return (
     <div className={`flex gap-4 items-center `}>
