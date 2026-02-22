@@ -2804,4 +2804,341 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "17.02.2026",
+    words: [
+      {
+        term: "to be worth (doing something)",
+        translation: "варто (щось робити), бути вартим",
+        examples: [
+          <span>
+            It’s <strong>worth trying</strong>.
+          </span>,
+          <span>
+            This book is <strong>worth reading</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to lose track of time",
+        translation: "втратити відчуття часу",
+        examples: [
+          <span>
+            I <strong>lost track of time</strong> at work.
+          </span>,
+          <span>
+            She often <strong>loses track of time</strong> while reading.
+          </span>,
+        ],
+      },
+
+      // Orientation phrases
+
+      {
+        term: "go past",
+        translation: "пройти повз",
+        examples: [
+          <span>
+            <strong>Go past</strong> the bank.
+          </span>,
+          <span>
+            <strong>Go past</strong> the supermarket.
+          </span>,
+        ],
+      },
+      {
+        term: "turn right",
+        translation: "поверніть праворуч",
+        examples: [
+          <span>
+            <strong>Turn right</strong> at the corner.
+          </span>,
+          <span>
+            <strong>Turn right</strong> after the bridge.
+          </span>,
+        ],
+      },
+      {
+        term: "turn left",
+        translation: "поверніть ліворуч",
+        examples: [
+          <span>
+            <strong>Turn left</strong> at the traffic lights.
+          </span>,
+          <span>
+            <strong>Turn left</strong> at the next street.
+          </span>,
+        ],
+      },
+      {
+        term: "go straight",
+        translation: "йдіть прямо",
+        examples: [
+          <span>
+            <strong>Go straight</strong> for 200 meters.
+          </span>,
+          <span>
+            <strong>Go straight</strong> ahead.
+          </span>,
+        ],
+      },
+      {
+        term: "go down the street",
+        translation: "йдіть вниз по вулиці",
+        examples: [
+          <span>
+            <strong>Go down the street</strong>.
+          </span>,
+          <span>
+            <strong>Go down the street</strong> and turn left.
+          </span>,
+        ],
+      },
+      {
+        term: "go up the street",
+        translation: "йдіть вгору по вулиці",
+        examples: [
+          <span>
+            <strong>Go up the street</strong>.
+          </span>,
+          <span>
+            <strong>Go up the street</strong> to the park.
+          </span>,
+        ],
+      },
+      {
+        term: "at the corner",
+        translation: "на розі",
+        examples: [
+          <span>
+            The shop is <strong>at the corner</strong>.
+          </span>,
+          <span>
+            Stop <strong>at the corner</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "next to",
+        translation: "поруч з",
+        examples: [
+          <span>
+            The bank is <strong>next to</strong> the café.
+          </span>,
+          <span>
+            She lives <strong>next to</strong> me.
+          </span>,
+        ],
+      },
+      {
+        term: "opposite",
+        translation: "навпроти",
+        examples: [
+          <span>
+            The hotel is <strong>opposite</strong> the station.
+          </span>,
+          <span>
+            The school is <strong>opposite</strong> the park.
+          </span>,
+        ],
+      },
+      {
+        term: "between",
+        translation: "між",
+        examples: [
+          <span>
+            The pharmacy is <strong>between</strong> the bank and the café.
+          </span>,
+          <span>
+            He sat <strong>between</strong> his friends.
+          </span>,
+        ],
+      },
+      {
+        term: "on the left",
+        translation: "зліва",
+        examples: [
+          <span>
+            The shop is <strong>on the left</strong>.
+          </span>,
+          <span>
+            You’ll see it <strong>on the left</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "on the right",
+        translation: "справа",
+        examples: [
+          <span>
+            The bus stop is <strong>on the right</strong>.
+          </span>,
+          <span>
+            The café is <strong>on the right</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "across from",
+        translation: "через дорогу від",
+        examples: [
+          <span>
+            The bank is <strong>across from</strong> the park.
+          </span>,
+          <span>
+            She lives <strong>across from</strong> the school.
+          </span>,
+        ],
+      },
+      {
+        term: "at the traffic lights",
+        translation: "на світлофорі",
+        examples: [
+          <span>
+            Turn left <strong>at the traffic lights</strong>.
+          </span>,
+          <span>
+            Stop <strong>at the traffic lights</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "round the corner",
+        translation: "за рогом",
+        examples: [
+          <span>
+            The shop is <strong>round the corner</strong>.
+          </span>,
+          <span>
+            He lives <strong>round the corner</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "take the first/second turning",
+        translation: "зверніть на перший/другий поворот",
+        examples: [
+          <span>
+            <strong>Take the first turning</strong> on the left.
+          </span>,
+          <span>
+            <strong>Take the second turning</strong> on the right.
+          </span>,
+        ],
+      },
+    ],
+  },
+  {
+    date: "19.02.2026",
+    words: [
+      {
+        term: "wealthy",
+        translation: "багатий, заможний",
+        examples: [
+          <span>
+            He is a <strong>wealthy</strong> businessman.
+          </span>,
+          <span>
+            They became <strong>wealthy</strong> after starting their company.
+          </span>,
+        ],
+      },
+      {
+        term: "to afford to do",
+        translation: "мати змогу дозволити собі щось зробити",
+        examples: [
+          <span>
+            I can’t <strong>afford to buy</strong> a new phone.
+          </span>,
+          <span>
+            She can <strong>afford to travel</strong> abroad.
+          </span>,
+        ],
+      },
+      {
+        term: "thus",
+        translation: "таким чином, отже",
+        examples: [
+          <span>
+            He was tired; <strong>thus</strong>, he went home early.
+          </span>,
+          <span>
+            The plan failed, <strong>thus</strong> we had to start again.
+          </span>,
+        ],
+      },
+      {
+        term: "to be about to",
+        translation: "збиратися щось зробити (ось-ось зробити)",
+        examples: [
+          <span>
+            I am <strong>about to leave</strong>.
+          </span>,
+          <span>
+            She was <strong>about to call</strong> you.
+          </span>,
+        ],
+      },
+      {
+        term: "to realize",
+        translation: "усвідомлювати; здійснювати",
+        examples: [
+          <span>
+            I didn’t <strong>realize</strong> it was so late.
+          </span>,
+          <span>
+            He <strong>realized</strong> his dream.
+          </span>,
+        ],
+      },
+      {
+        term: "eventually",
+        translation: "зрештою, врешті-решт",
+        examples: [
+          <span>
+            We <strong>eventually</strong> solved the problem.
+          </span>,
+          <span>
+            She <strong>eventually</strong> agreed.
+          </span>,
+        ],
+      },
+      {
+        term: "arrive at",
+        translation: "прибувати до; доходити до (висновку)",
+        examples: [
+          <span>
+            We <strong>arrived at</strong> the station.
+          </span>,
+          <span>
+            They <strong>arrived at</strong> a decision.
+          </span>,
+        ],
+      },
+      {
+        term: "to commit",
+        translation: "скоювати; зобов’язуватися",
+        examples: [
+          <span>
+            He <strong>committed</strong> a crime.
+          </span>,
+          <span>
+            She <strong>committed</strong> to the project.
+          </span>,
+        ],
+      },
+      {
+        term: "to set an alarm clock",
+        translation: "поставити будильник",
+        examples: [
+          <span>
+            I <strong>set an alarm clock</strong> for 6 a.m.
+          </span>,
+          <span>
+            Don’t forget to <strong>set an alarm clock</strong> tonight.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
