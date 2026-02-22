@@ -2805,7 +2805,7 @@ export const lessons = [
     ],
   },
   {
-    date: "17.02.2026",
+    date: "02.17.2026",
     words: [
       {
         term: "to be worth (doing something)",
@@ -3029,7 +3029,7 @@ export const lessons = [
     ],
   },
   {
-    date: "19.02.2026",
+    date: "02.19.2026",
     words: [
       {
         term: "wealthy",
