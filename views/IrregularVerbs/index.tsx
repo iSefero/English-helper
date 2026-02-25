@@ -7,7 +7,7 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
-import { irregularVerbs } from "./irregularVerbs";
+import { mustHaveIrregularVerbs } from "./mustHaveIrregularVerbs";
 import { Input } from "@/components/ui/input";
 import { useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
@@ -15,7 +15,7 @@ import { Card, CardContent } from "@/components/ui/card";
 export default function IrregularVerbsView() {
   const [searchValue, setSearchValue] = useState("");
 
-  const filteredVerbs = irregularVerbs.filter((item) =>
+  const filteredVerbs = mustHaveIrregularVerbs.filter((item) =>
     [item.infinitive, item.past, item.participle, item.translation].some((v) =>
       v.toLowerCase().includes(searchValue.toLowerCase()),
     ),
