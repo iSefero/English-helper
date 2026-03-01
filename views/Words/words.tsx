@@ -2881,4 +2881,81 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "02.26.2026",
+    words: [
+      {
+        term: "a demand for something",
+        translation: "попит / вимога на щось",
+        examples: [
+          <span>
+            There is a high <strong>demand for</strong> electric cars.
+          </span>,
+          <span>
+            The <strong>demand for</strong> housing is increasing.
+          </span>,
+        ],
+      },
+      {
+        term: "to demand something",
+        translation: "вимагати щось",
+        examples: [
+          <span>
+            She <strong>demanded</strong> an explanation.
+          </span>,
+          <span>
+            The workers <strong>demanded</strong> better conditions.
+          </span>,
+        ],
+      },
+      {
+        term: "to charge (a price)",
+        translation: "встановлювати / просити ціну",
+        examples: [
+          <span>
+            The taxi driver <strong>charged</strong> me 300 hryvnias.
+          </span>,
+          <span>
+            They <strong>charge</strong> extra for delivery.
+          </span>,
+        ],
+      },
+      {
+        term: "vehicle",
+        translation: "транспортний засіб",
+        examples: [
+          <span>
+            Every <strong>vehicle</strong> must be insured.
+          </span>,
+          <span>
+            This <strong>vehicle</strong> is very fuel-efficient.
+          </span>,
+        ],
+      },
+      {
+        term: "wardrobe",
+        translation: "шафа для одягу / гардероб",
+        examples: [
+          <span>
+            She bought a new <strong>wardrobe</strong>.
+          </span>,
+          <span>
+            His <strong>wardrobe</strong> is full of black clothes.
+          </span>,
+        ],
+      },
+      {
+        term: "huge load",
+        translation: "велике навантаження / великий вантаж",
+        examples: [
+          <span>
+            He was carrying a <strong>huge load</strong>.
+          </span>,
+          <span>
+            The bridge can support a <strong>huge load</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
