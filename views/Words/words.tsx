@@ -2958,4 +2958,72 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "03.03.2026",
+    words: [
+      {
+        term: "strike – struck – struck",
+        translation: "вдаряти / страйкувати / спалахувати (про думку)",
+        examples: [
+          <span>
+            The clock <strong>struck</strong> midnight.
+          </span>,
+          <span>
+            A brilliant idea <strong>struck</strong> him suddenly.
+          </span>,
+        ],
+      },
+      {
+        term: "flood",
+        translation: "повінь / затоплювати",
+        examples: [
+          <span>
+            The heavy rain caused a <strong>flood</strong>.
+          </span>,
+          <span>
+            The river <strong>flooded</strong> the nearby fields.
+          </span>,
+        ],
+      },
+      {
+        term: "junction",
+        translation: "перехрестя / розв’язка /місце з’єднання",
+        examples: [
+          <span>
+            Turn left at the next <strong>junction</strong>.
+          </span>,
+          <span>
+            There was an accident at the highway <strong>junction</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "diversion",
+        translation: "об’їзд / відхилення від маршруту",
+        examples: [
+          <span>
+            Due to roadworks, there is a <strong>diversion</strong>.
+          </span>,
+          <span>
+            Drivers must follow the <strong>diversion</strong> signs.
+          </span>,
+        ],
+      },
+      {
+        term: "lanes in both directions are closed",
+        translation: "смуги в обох напрямках закриті",
+        examples: [
+          <span>
+            Because of the accident,{" "}
+            <strong>lanes in both directions are closed</strong>.
+          </span>,
+          <span>
+            The police announced that{" "}
+            <strong>lanes in both directions are closed</strong> until further
+            notice.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
