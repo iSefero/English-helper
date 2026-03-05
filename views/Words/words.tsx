@@ -3026,4 +3026,170 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "03.05.2025",
+    words: [
+      {
+        term: "to go skiing",
+        translation: "кататися на лижах",
+        examples: [
+          <span>
+            We <strong>went skiing</strong> in the mountains last winter.
+          </span>,
+          <span>
+            They often <strong>go skiing</strong> in January.
+          </span>,
+        ],
+      },
+      {
+        term: "to book accommodation",
+        translation: "забронювати житло",
+        examples: [
+          <span>
+            We need <strong>to book accommodation</strong> before the trip.
+          </span>,
+          <span>
+            She <strong>booked accommodation</strong> near the beach.
+          </span>,
+        ],
+      },
+      {
+        term: "for ages",
+        translation: "дуже довго",
+        examples: [
+          <span>
+            I haven’t seen him <strong>for ages</strong>.
+          </span>,
+          <span>
+            We waited <strong>for ages</strong> for the bus.
+          </span>,
+        ],
+      },
+      {
+        term: "me neither",
+        translation: "я теж ні",
+        examples: [
+          <span>
+            I don’t like coffee. <strong>Me neither</strong>.
+          </span>,
+          <span>
+            I can’t swim. <strong>Me neither</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to fade",
+        translation: "вицвітати; поступово зникати",
+        examples: [
+          <span>
+            The color of the shirt <strong>faded</strong> after many washes.
+          </span>,
+          <span>
+            The music slowly <strong>faded</strong> away.
+          </span>,
+        ],
+      },
+
+      {
+        term: "quite a few",
+        translation: "досить багато (злічувальні, ствердження)",
+        examples: [
+          <span>
+            There are <strong>quite a few</strong> good restaurants here.
+          </span>,
+          <span>
+            I have <strong>quite a few</strong> friends in this city.
+          </span>,
+        ],
+      },
+      {
+        term: "quite few",
+        translation: "досить мало (злічувальні, негативний відтінок)",
+        examples: [
+          <span>
+            <strong>Quite few</strong> people understood the problem.
+          </span>,
+          <span>
+            <strong>Quite few</strong> students finished the task.
+          </span>,
+        ],
+      },
+
+      {
+        term: "a lot of / plenty of",
+        translation:
+          "багато / більш ніж достатньо (злічувальні + незлічувальні, ствердження)",
+        examples: [
+          <span>
+            We have <strong>a lot of</strong> time.
+          </span>,
+          <span>
+            There are <strong>plenty of</strong> places to visit.
+          </span>,
+        ],
+      },
+      {
+        term: "many",
+        translation: "багато (злічувальні, питання / заперечення)",
+        examples: [
+          <span>
+            How <strong>many</strong> people came?
+          </span>,
+          <span>
+            There aren’t <strong>many</strong> cars here.
+          </span>,
+        ],
+      },
+      {
+        term: "much",
+        translation: "багато (незлічувальні, питання / заперечення)",
+        examples: [
+          <span>
+            How <strong>much</strong> money do you need?
+          </span>,
+          <span>
+            I don’t have <strong>much</strong> time.
+          </span>,
+        ],
+      },
+      {
+        term: "some",
+        translation:
+          "деяка кількість (злічувальні + незлічувальні, ствердження / пропозиція)",
+        examples: [
+          <span>
+            I bought <strong>some</strong> apples.
+          </span>,
+          <span>
+            Would you like <strong>some</strong> tea?
+          </span>,
+        ],
+      },
+      {
+        term: "any",
+        translation:
+          "будь-яка кількість (злічувальні + незлічувальні, питання / заперечення)",
+        examples: [
+          <span>
+            Do you have <strong>any</strong> questions?
+          </span>,
+          <span>
+            I don’t have <strong>any</strong> money.
+          </span>,
+        ],
+      },
+      {
+        term: "a bit of",
+        translation: "трохи (незлічувальні, ствердження)",
+        examples: [
+          <span>
+            I need <strong>a bit of</strong> help.
+          </span>,
+          <span>
+            Add <strong>a bit of</strong> sugar to the tea.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
