@@ -3192,4 +3192,191 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "03.12.2026",
+    words: [
+      {
+        term: "to borrow",
+        translation: "позичати (брати у когось)",
+        examples: [
+          <span>
+            Can I <strong>borrow</strong> your phone for a minute?
+          </span>,
+          <span>
+            She <strong>borrowed</strong> a book from the library.
+          </span>,
+        ],
+      },
+      {
+        term: "flour",
+        translation: "борошно",
+        examples: [
+          <span>
+            We need <strong>flour</strong> to make bread.
+          </span>,
+          <span>
+            Add two cups of <strong>flour</strong> to the bowl.
+          </span>,
+        ],
+      },
+      {
+        term: "dough",
+        translation: "тісто",
+        examples: [
+          <span>
+            She is making pizza <strong>dough</strong>.
+          </span>,
+          <span>
+            Let the <strong>dough</strong> rest for an hour.
+          </span>,
+        ],
+      },
+      {
+        term: "caviar",
+        translation: "ікра",
+        examples: [
+          <span>
+            He ordered toast with <strong>caviar</strong>.
+          </span>,
+          <span>
+            <strong>Caviar</strong> is considered a luxury food.
+          </span>,
+        ],
+      },
+      {
+        term: "cereal",
+        translation: "сухі сніданки, пластівці",
+        examples: [
+          <span>
+            I eat <strong>cereal</strong> with milk every morning.
+          </span>,
+          <span>
+            This <strong>cereal</strong> is very sweet.
+          </span>,
+        ],
+      },
+      {
+        term: "twins",
+        translation: "близнюки",
+        examples: [
+          <span>
+            They are <strong>twins</strong>.
+          </span>,
+          <span>
+            The <strong>twins</strong> look exactly the same.
+          </span>,
+        ],
+      },
+      {
+        term: "various",
+        translation: "різні, різноманітні",
+        examples: [
+          <span>
+            The shop sells <strong>various</strong> kinds of cheese.
+          </span>,
+          <span>
+            We visited <strong>various</strong> cities during the trip.
+          </span>,
+        ],
+      },
+      {
+        term: "variety",
+        translation: "різноманіття",
+        examples: [
+          <span>
+            The market offers a large <strong>variety</strong> of fruits.
+          </span>,
+          <span>
+            I like the <strong>variety</strong> of food here.
+          </span>,
+        ],
+      },
+      {
+        term: "to confess",
+        translation: "зізнаватися",
+        examples: [
+          <span>
+            He decided <strong>to confess</strong> the truth.
+          </span>,
+          <span>
+            She <strong>confessed</strong> that she broke the vase.
+          </span>,
+        ],
+      },
+      {
+        term: "to be obsessed with",
+        translation: "бути одержимим чимось",
+        examples: [
+          <span>
+            He is <strong>obsessed with</strong> video games.
+          </span>,
+          <span>
+            She is <strong>obsessed with</strong> fitness.
+          </span>,
+        ],
+      },
+      {
+        term: "to dedicate to",
+        translation: "присвячувати",
+        examples: [
+          <span>
+            He <strong>dedicated</strong> the book <strong>to</strong> his
+            mother.
+          </span>,
+          <span>
+            She <strong>dedicated</strong> her life <strong>to</strong> helping
+            others.
+          </span>,
+        ],
+      },
+      {
+        term: "dairy products",
+        translation: "молочні продукти",
+        examples: [
+          <span>
+            Milk and cheese are <strong>dairy products</strong>.
+          </span>,
+          <span>
+            Some people cannot eat <strong>dairy products</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "bare feet",
+        translation: "босі ноги",
+        examples: [
+          <span>
+            The child ran on the grass with <strong>bare feet</strong>.
+          </span>,
+          <span>
+            Walking with <strong>bare feet</strong> feels nice in summer.
+          </span>,
+        ],
+      },
+      {
+        term: "barefoot",
+        translation: "босоніж",
+        examples: [
+          <span>
+            She walked <strong>barefoot</strong> on the beach.
+          </span>,
+          <span>
+            The kids were running <strong>barefoot</strong> in the garden.
+          </span>,
+        ],
+      },
+      {
+        term: "raw",
+        translation: "сирий",
+        examples: [
+          <span>
+            Some people eat <strong>raw</strong> vegetables.
+          </span>,
+          <span>
+            This fish is <strong>raw</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
