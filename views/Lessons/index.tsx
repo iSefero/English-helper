@@ -13,7 +13,7 @@ import { useState, useMemo, useEffect } from "react";
 import { Field, FieldLabel } from "@/components/ui/field";
 import { FontSize, SortOrder } from "@/types/common";
 
-export default function WordsView() {
+export default function LessonsView() {
   const [sortOrder, setSortOrder] = useState<SortOrder>("newestFirst");
   const [fontSize, setFontSize] = useState<FontSize>("sm");
 

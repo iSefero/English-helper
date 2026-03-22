@@ -5,7 +5,7 @@ import {
   AccordionItem,
 } from "@/components/ui/accordion";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { lessons } from "./../words";
+import { lessons } from "../words";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import LessonWords from "../LessonWords";
