@@ -11,6 +11,7 @@ import { mustHaveIrregularVerbs } from "./mustHaveIrregularVerbs";
 import { Input } from "@/components/ui/input";
 import { useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
+import TextSpeaker from "@/components/TextSpeaker";
 
 export default function IrregularVerbsView() {
   const [searchValue, setSearchValue] = useState("");
@@ -22,43 +23,45 @@ export default function IrregularVerbsView() {
   );
 
   return (
-    <Card>
-      <CardContent className="flex flex-col gap-6">
+    <Card className="w-full">
+      <CardContent className="flex flex-col gap-6 w-full">
         <Input
           placeholder="Enter search params"
           className="max-w-md h-10"
           onChange={(e) => setSearchValue(e.target.value)}
         />
-        <div>
-          <Table className="table-fixed w-full">
-            <TableHeader className="sticky top-0 z-10 bg-background">
-              <TableRow>
-                <TableHead className="w-12">#</TableHead>
-                <TableHead className="w-1/4 text-xl font-bold">
-                  Infinitive
-                </TableHead>
-                <TableHead className="w-1/4 text-xl font-bold">Past</TableHead>
-                <TableHead className="w-1/4 text-xl font-bold">
-                  Participle
-                </TableHead>
-                <TableHead className="w-1/4 text-xl font-bold">
-                  Translation
-                </TableHead>
+        <Table className="w-full">
+          <TableHeader className="sticky top-0 z-10 bg-background">
+            <TableRow>
+              <TableHead className="w-1/4 text-xl font-bold">
+                Infinitive
+              </TableHead>
+              <TableHead className="w-1/4 text-xl font-bold">Past</TableHead>
+              <TableHead className="w-1/4 text-xl font-bold">
+                Participle
+              </TableHead>
+              <TableHead className="w-1/4 text-xl font-bold">
+                Translation
+              </TableHead>
+            </TableRow>
+          </TableHeader>
+          <TableBody>
+            {filteredVerbs.map((item) => (
+              <TableRow key={item.infinitive}>
+                <TableCell className="text-lg">
+                  {<TextSpeaker text={item.infinitive} />}
+                </TableCell>
+                <TableCell className="text-lg">
+                  {<TextSpeaker text={item.past} />}
+                </TableCell>
+                <TableCell className="text-lg">
+                  {<TextSpeaker text={item.participle} />}
+                </TableCell>
+                <TableCell className="text-lg">{item.translation}</TableCell>
               </TableRow>
-            </TableHeader>
-            <TableBody>
-              {filteredVerbs.map((item, index) => (
-                <TableRow key={item.infinitive}>
-                  <TableCell>{index + 1}</TableCell>
-                  <TableCell className="text-lg">{item.infinitive}</TableCell>
-                  <TableCell className="text-lg">{item.past}</TableCell>
-                  <TableCell className="text-lg">{item.participle}</TableCell>
-                  <TableCell className="text-lg">{item.translation}</TableCell>
-                </TableRow>
-              ))}
-            </TableBody>
-          </Table>
-        </div>
+            ))}
+          </TableBody>
+        </Table>
       </CardContent>
     </Card>
   );

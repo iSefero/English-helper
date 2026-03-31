@@ -18,6 +18,12 @@ export const mustHaveIrregularVerbs = [
     translation: "починати",
   },
   {
+    infinitive: "blow",
+    past: "blew",
+    participle: "blown",
+    translation: "дути",
+  },
+  {
     infinitive: "break",
     past: "broke",
     participle: "broken",
@@ -72,6 +78,12 @@ export const mustHaveIrregularVerbs = [
     past: "drew",
     participle: "drawn",
     translation: "малювати",
+  },
+  {
+    infinitive: "dream",
+    past: "dreamed/dreamt",
+    participle: "dreamed/dreamt",
+    translation: "мріяти",
   },
   {
     infinitive: "drink",
@@ -180,6 +192,12 @@ export const mustHaveIrregularVerbs = [
     translation: "знати",
   },
   {
+    infinitive: "lay",
+    past: "laid",
+    participle: "laid",
+    translation: "класти",
+  },
+  {
     infinitive: "learn",
     past: "learned/learnt",
     participle: "learned/learnt",
@@ -202,6 +220,12 @@ export const mustHaveIrregularVerbs = [
     past: "let",
     participle: "let",
     translation: "дозволяти",
+  },
+  {
+    infinitive: "light",
+    past: "lit",
+    participle: "lit",
+    translation: "освітлювати",
   },
   {
     infinitive: "lose",
@@ -252,6 +276,12 @@ export const mustHaveIrregularVerbs = [
     participle: "rung",
     translation: "дзвонити",
   },
+  {
+    infinitive: "rise",
+    past: "rose",
+    participle: "risen",
+    translation: "підніматися",
+  },
   { infinitive: "run", past: "ran", participle: "run", translation: "бігти" },
   {
     infinitive: "say",
@@ -279,10 +309,28 @@ export const mustHaveIrregularVerbs = [
     translation: "встановлювати",
   },
   {
+    infinitive: "shake",
+    past: "shook",
+    participle: "shaken",
+    translation: "трясти",
+  },
+  {
+    infinitive: "shut",
+    past: "shut",
+    participle: "shut",
+    translation: "закривати",
+  },
+  {
     infinitive: "show",
     past: "showed",
     participle: "shown",
     translation: "показувати",
+  },
+  {
+    infinitive: "sing",
+    past: "sang",
+    participle: "sung",
+    translation: "співати",
   },
   { infinitive: "sit", past: "sat", participle: "sat", translation: "сидіти" },
   {
@@ -308,6 +356,12 @@ export const mustHaveIrregularVerbs = [
     past: "stood",
     participle: "stood",
     translation: "стояти",
+  },
+  {
+    infinitive: "swim",
+    past: "swam",
+    participle: "swum",
+    translation: "плавати",
   },
   {
     infinitive: "take",
@@ -344,6 +398,12 @@ export const mustHaveIrregularVerbs = [
     past: "understood",
     participle: "understood",
     translation: "розуміти",
+  },
+  {
+    infinitive: "wake",
+    past: "woke",
+    participle: "woken",
+    translation: "прокидатися",
   },
   {
     infinitive: "wear",
