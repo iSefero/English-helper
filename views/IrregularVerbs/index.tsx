@@ -33,6 +33,7 @@ export default function IrregularVerbsView() {
         <Table className="w-full">
           <TableHeader className="sticky top-0 z-10 bg-background">
             <TableRow>
+              <TableHead className="text-xl font-bold">#</TableHead>
               <TableHead className="w-1/4 text-xl font-bold">
                 Infinitive
               </TableHead>
@@ -46,8 +47,9 @@ export default function IrregularVerbsView() {
             </TableRow>
           </TableHeader>
           <TableBody>
-            {filteredVerbs.map((item) => (
+            {filteredVerbs.map((item, i) => (
               <TableRow key={item.infinitive}>
+                <TableCell className="text-lg">{i + 1}</TableCell>
                 <TableCell className="text-lg">
                   {<TextSpeaker text={item.infinitive} />}
                 </TableCell>
