@@ -118,7 +118,7 @@ export default function TestDialogContent() {
       ) : (
         <p className="text-center text-xl font-medium">No more verbs to test</p>
       )}
-      <DialogFooter className="justify-between sm:justify-between flex">
+      <DialogFooter className="justify-between sm:justify-between flex gap-y-5">
         <DialogClose asChild>
           <Button variant="destructive">Cancel</Button>
         </DialogClose>

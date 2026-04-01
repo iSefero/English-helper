@@ -30,7 +30,7 @@ export default function IrregularVerbsView() {
       <TestDialog open={showTest} onOpenChange={setShowTest} />
       <Card className="w-full">
         <CardContent className="flex flex-col gap-6 w-full">
-          <div className="flex gap-4 flex-wrap justify-between">
+          <div className="flex gap-4 justify-between">
             <Input
               placeholder="Enter search params"
               className="max-w-md h-10"
