@@ -171,7 +171,7 @@ export const mustHaveIrregularVerbs = [
     infinitive: "hold",
     past: "held",
     participle: "held",
-    translation: "тримати",
+    translation: "тримати (фізично)",
   },
   {
     infinitive: "hurt",
@@ -183,7 +183,7 @@ export const mustHaveIrregularVerbs = [
     infinitive: "keep",
     past: "kept",
     participle: "kept",
-    translation: "тримати / зберігати",
+    translation: "зберігати / тримати",
   },
   {
     infinitive: "know",
@@ -195,7 +195,7 @@ export const mustHaveIrregularVerbs = [
     infinitive: "lay",
     past: "laid",
     participle: "laid",
-    translation: "класти",
+    translation: "класти (обережно)",
   },
   {
     infinitive: "learn",
@@ -257,7 +257,12 @@ export const mustHaveIrregularVerbs = [
     participle: "paid",
     translation: "платити",
   },
-  { infinitive: "put", past: "put", participle: "put", translation: "класти" },
+  {
+    infinitive: "put",
+    past: "put",
+    participle: "put",
+    translation: "класти (універсальне)",
+  },
   {
     infinitive: "read",
     past: "read",
