@@ -3079,7 +3079,7 @@ export const lessons = [
       },
       {
         term: "to fade",
-        translation: "вицвітати; поступово зникати",
+        translation: "вицвітати, поступово зникати",
         examples: [
           <span>
             The color of the shirt <strong>faded</strong> after many washes.
@@ -3092,7 +3092,7 @@ export const lessons = [
 
       {
         term: "quite a few",
-        translation: "досить багато (злічувальні, ствердження)",
+        translation: "досить багато (❕)",
         examples: [
           <span>
             There are <strong>quite a few</strong> good restaurants here.
@@ -3104,7 +3104,7 @@ export const lessons = [
       },
       {
         term: "quite few",
-        translation: "досить мало (злічувальні, негативний відтінок)",
+        translation: "досить мало (❌)",
         examples: [
           <span>
             <strong>Quite few</strong> people understood the problem.
@@ -3117,8 +3117,7 @@ export const lessons = [
 
       {
         term: "a lot of / plenty of",
-        translation:
-          "багато / більш ніж достатньо (злічувальні + незлічувальні, ствердження)",
+        translation: "багато / більш ніж достатньо (❕)",
         examples: [
           <span>
             We have <strong>a lot of</strong> time.
@@ -3130,7 +3129,7 @@ export const lessons = [
       },
       {
         term: "many",
-        translation: "багато (злічувальні, питання / заперечення)",
+        translation: "багато (❌ ❔)",
         examples: [
           <span>
             How <strong>many</strong> people came?
@@ -3142,7 +3141,7 @@ export const lessons = [
       },
       {
         term: "much",
-        translation: "багато (незлічувальні, питання / заперечення)",
+        translation: "багато (❌ ❔)",
         examples: [
           <span>
             How <strong>much</strong> money do you need?
@@ -3154,8 +3153,7 @@ export const lessons = [
       },
       {
         term: "some",
-        translation:
-          "деяка кількість (злічувальні + незлічувальні, ствердження / пропозиція)",
+        translation: "деяка кількість (❕ ✔)",
         examples: [
           <span>
             I bought <strong>some</strong> apples.
@@ -3167,8 +3165,7 @@ export const lessons = [
       },
       {
         term: "any",
-        translation:
-          "будь-яка кількість (злічувальні + незлічувальні, питання / заперечення)",
+        translation: "будь-яка кількість (❌ ❔)",
         examples: [
           <span>
             Do you have <strong>any</strong> questions?
@@ -3180,7 +3177,7 @@ export const lessons = [
       },
       {
         term: "a bit of",
-        translation: "трохи (незлічувальні, ствердження)",
+        translation: "трохи (❕)",
         examples: [
           <span>
             I need <strong>a bit of</strong> help.
@@ -3374,6 +3371,179 @@ export const lessons = [
           </span>,
           <span>
             This fish is <strong>raw</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
+  {
+    date: "04.02.2026",
+    words: [
+      {
+        term: "stray dogs",
+        translation: "бродячі собаки",
+        examples: [
+          <span>
+            There are many <strong>stray dogs</strong> in this area.
+          </span>,
+          <span>
+            The shelter helps <strong>stray dogs</strong> find homes.
+          </span>,
+        ],
+      },
+      {
+        term: "it's up to you/us",
+        translation: "вирішувати тобі/нам",
+        examples: [
+          <span>
+            It’s <strong>up to you</strong> what to choose.
+          </span>,
+          <span>
+            It’s <strong>up to us</strong> to finish this project.
+          </span>,
+        ],
+      },
+      {
+        term: "to give birth",
+        translation: "народжувати",
+        examples: [
+          <span>
+            She <strong>gave birth</strong> to a healthy baby.
+          </span>,
+          <span>
+            The cat <strong>gave birth</strong> to four kittens.
+          </span>,
+        ],
+      },
+      {
+        term: "to peel potatoes",
+        translation: "чистити картоплю",
+        examples: [
+          <span>
+            I need <strong>to peel potatoes</strong> for dinner.
+          </span>,
+          <span>
+            She is <strong>peeling potatoes</strong> in the kitchen.
+          </span>,
+        ],
+      },
+      {
+        term: "plum",
+        translation: "слива",
+        examples: [
+          <span>
+            I ate a sweet <strong>plum</strong>.
+          </span>,
+          <span>
+            This cake is made with <strong>plums</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "scallop",
+        translation: "морський гребінець",
+        examples: [
+          <span>
+            He ordered grilled <strong>scallops</strong>.
+          </span>,
+          <span>
+            <strong>Scallops</strong> are considered a delicacy.
+          </span>,
+        ],
+      },
+      {
+        term: "clam",
+        translation: "молюск (двостулковий)",
+        examples: [
+          <span>
+            We collected <strong>clams</strong> by the sea.
+          </span>,
+          <span>
+            This soup is made with <strong>clams</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "eggplant",
+        translation: "баклажан",
+        examples: [
+          <span>
+            She cooked fried <strong>eggplant</strong>.
+          </span>,
+          <span>
+            <strong>Eggplant</strong> is popular in Mediterranean cuisine.
+          </span>,
+        ],
+      },
+      {
+        term: "minced meat",
+        translation: "фарш",
+        examples: [
+          <span>
+            We need <strong>minced meat</strong> for the burgers.
+          </span>,
+          <span>
+            She made pasta with <strong>minced meat</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "bitter",
+        translation: "гіркий",
+        examples: [
+          <span>
+            This coffee tastes <strong>bitter</strong>.
+          </span>,
+          <span>
+            The medicine has a <strong>bitter</strong> flavor.
+          </span>,
+        ],
+      },
+      {
+        term: "mild",
+        translation: "м’який, не різкий (про смак)",
+        examples: [
+          <span>
+            This cheese has a <strong>mild</strong> taste.
+          </span>,
+          <span>
+            The sauce is very <strong>mild</strong>, not spicy at all.
+          </span>,
+        ],
+      },
+      {
+        term: "to roast",
+        translation: "смажити (в духовці / на вогні)",
+        examples: [
+          <span>
+            We decided <strong>to roast</strong> some vegetables.
+          </span>,
+          <span>
+            He <strong>roasted</strong> the chicken for dinner.
+          </span>,
+        ],
+      },
+      {
+        term: "soft drink",
+        translation: "безалкогольний напій",
+        examples: [
+          <span>
+            I prefer a <strong>soft drink</strong> instead of alcohol.
+          </span>,
+          <span>
+            He ordered a <strong>soft drink</strong> with his meal.
+          </span>,
+        ],
+      },
+      {
+        term: "stone (of a fruit)",
+        translation: "кісточка (у фрукті)",
+        examples: [
+          <span>
+            Remove the <strong>stone</strong> from the peach.
+          </span>,
+          <span>
+            This cherry has a large <strong>stone</strong>.
           </span>,
         ],
       },
