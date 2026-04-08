@@ -3549,4 +3549,249 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "04.07.2026",
+    words: [
+      {
+        term: "to go abroad",
+        translation: "їхати за кордон",
+        examples: [
+          <span>
+            She wants <strong>to go abroad</strong> to study.
+          </span>,
+          <span>
+            They often <strong>go abroad</strong> for vacations.
+          </span>,
+        ],
+      },
+      {
+        term: "some room",
+        translation: "трохи місця",
+        examples: [
+          <span>
+            We need <strong>some room</strong> for the table.
+          </span>,
+          <span>
+            Make <strong>some room</strong> for your clothes.
+          </span>,
+        ],
+      },
+      {
+        term: "beetroot",
+        translation: "буряк",
+        examples: [
+          <span>
+            <strong>Beetroot</strong> is used in borscht.
+          </span>,
+          <span>
+            She added <strong>beetroot</strong> to the salad.
+          </span>,
+        ],
+      },
+      {
+        term: "by the way",
+        translation: "до речі",
+        examples: [
+          <span>
+            <strong>By the way</strong>, have you seen him?
+          </span>,
+          <span>
+            I forgot, <strong>by the way</strong>, to call her.
+          </span>,
+        ],
+      },
+      {
+        term: "to split the bill",
+        translation: "розділити рахунок",
+        examples: [
+          <span>
+            Let’s <strong>split the bill</strong>.
+          </span>,
+          <span>
+            We decided <strong>to split the bill</strong> equally.
+          </span>,
+        ],
+      },
+      {
+        term: "it's on me",
+        translation: "я плачу (за всіх)",
+        examples: [
+          <span>
+            Don’t worry, <strong>it’s on me</strong>.
+          </span>,
+          <span>
+            This dinner is <strong>on me</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "it's on the house",
+        translation: "за рахунок закладу",
+        examples: [
+          <span>
+            The drinks are <strong>on the house</strong>.
+          </span>,
+          <span>
+            Dessert is <strong>on the house</strong> today.
+          </span>,
+        ],
+      },
+      {
+        term: "to sugarcoat",
+        translation: "пом’якшувати (правду)",
+        examples: [
+          <span>
+            Don’t <strong>sugarcoat</strong> the situation.
+          </span>,
+          <span>
+            She tried <strong>to sugarcoat</strong> the bad news.
+          </span>,
+        ],
+      },
+      {
+        term: "to abuse",
+        translation: "зловживати; ображати",
+        examples: [
+          <span>
+            He <strong>abused</strong> his power.
+          </span>,
+          <span>
+            She was <strong>abused</strong> as a child.
+          </span>,
+        ],
+      },
+      {
+        term: "to torture",
+        translation: "катувати",
+        examples: [
+          <span>
+            The prisoner was <strong>tortured</strong>.
+          </span>,
+          <span>
+            They tried <strong>to torture</strong> him for information.
+          </span>,
+        ],
+      },
+      {
+        term: "to substitute",
+        translation: "замінювати",
+        examples: [
+          <span>
+            You can <strong>substitute</strong> sugar with honey.
+          </span>,
+          <span>
+            He <strong>substituted</strong> butter for oil.
+          </span>,
+        ],
+      },
+      {
+        term: "to be open to doing sth",
+        translation: "бути відкритим до чогось",
+        examples: [
+          <span>
+            I’m <strong>open to trying</strong> new things.
+          </span>,
+          <span>
+            She is <strong>open to working</strong> abroad.
+          </span>,
+        ],
+      },
+      {
+        term: "foreign",
+        translation: "іноземний",
+        examples: [
+          <span>
+            He speaks several <strong>foreign</strong> languages.
+          </span>,
+          <span>
+            They invested in <strong>foreign</strong> markets.
+          </span>,
+        ],
+      },
+      {
+        term: "pickled food",
+        translation: "маринована їжа",
+        examples: [
+          <span>
+            I like <strong>pickled food</strong>.
+          </span>,
+          <span>
+            <strong>Pickled food</strong> is popular in many countries.
+          </span>,
+        ],
+      },
+      {
+        term: "to grab a coffee / a bite / an opportunity",
+        translation: "швидко взяти (каву / перекус / можливість)",
+        examples: [
+          <span>
+            Let’s <strong>grab a coffee</strong>.
+          </span>,
+          <span>
+            He <strong>grabbed the opportunity</strong> immediately.
+          </span>,
+        ],
+      },
+      {
+        term: "national dish",
+        translation: "національна страва",
+        examples: [
+          <span>
+            Borscht is a <strong>national dish</strong> of Ukraine.
+          </span>,
+          <span>
+            Every country has its own <strong>national dish</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "it is served",
+        translation: "це подається",
+        examples: [
+          <span>
+            The dish <strong>is served</strong> hot.
+          </span>,
+          <span>
+            It <strong>is served</strong> with rice.
+          </span>,
+        ],
+      },
+      {
+        term: "a mixture of",
+        translation: "суміш чогось",
+        examples: [
+          <span>
+            It’s a <strong>mixture of</strong> spices.
+          </span>,
+          <span>
+            The dish is a <strong>mixture of</strong> vegetables and meat.
+          </span>,
+        ],
+      },
+      {
+        term: "street stalls",
+        translation: "вуличні кіоски / лотки",
+        examples: [
+          <span>
+            You can buy food from <strong>street stalls</strong>.
+          </span>,
+          <span>
+            <strong>Street stalls</strong> are popular in Asia.
+          </span>,
+        ],
+      },
+      {
+        term: "to be concerned about / to be worried about",
+        translation: "турбуватися про",
+        examples: [
+          <span>
+            I’m <strong>concerned about</strong> his health.
+          </span>,
+          <span>
+            She is <strong>concerned about</strong> the results.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
