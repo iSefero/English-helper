@@ -3794,4 +3794,117 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "04.09.2026",
+    words: [
+      {
+        term: "can't help doing something",
+        translation: "не можу не робити щось",
+        examples: [
+          <span>
+            I <strong>can’t help laughing</strong> at this joke.
+          </span>,
+          <span>
+            She <strong>can’t help thinking</strong> about him.
+          </span>,
+        ],
+      },
+      {
+        term: "cuisine",
+        translation: "кухня (кулінарія країни)",
+        examples: [
+          <span>
+            Italian <strong>cuisine</strong> is very popular.
+          </span>,
+          <span>
+            I love trying different types of <strong>cuisine</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to require",
+        translation: "вимагати, потребувати",
+        examples: [
+          <span>
+            This job <strong>requires</strong> experience.
+          </span>,
+          <span>
+            The recipe <strong>requires</strong> fresh ingredients.
+          </span>,
+        ],
+      },
+      {
+        term: "dumplings",
+        translation: "пельмені / вареники",
+        examples: [
+          <span>
+            She made homemade <strong>dumplings</strong>.
+          </span>,
+          <span>
+            We ate <strong>dumplings</strong> with sour cream.
+          </span>,
+        ],
+      },
+      {
+        term: "sour cream",
+        translation: "сметана",
+        examples: [
+          <span>
+            Add some <strong>sour cream</strong> to the soup.
+          </span>,
+          <span>
+            I like pancakes with <strong>sour cream</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "cabbage",
+        translation: "капуста",
+        examples: [
+          <span>
+            <strong>Cabbage</strong> is used in many dishes.
+          </span>,
+          <span>
+            She chopped the <strong>cabbage</strong> for the salad.
+          </span>,
+        ],
+      },
+      {
+        term: "still water",
+        translation: "негазована вода",
+        examples: [
+          <span>
+            I prefer <strong>still water</strong> to sparkling.
+          </span>,
+          <span>
+            He ordered a bottle of <strong>still water</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to exaggerate",
+        translation: "перебільшувати",
+        examples: [
+          <span>
+            Don’t <strong>exaggerate</strong> the problem.
+          </span>,
+          <span>
+            He tends <strong>to exaggerate</strong> his achievements.
+          </span>,
+        ],
+      },
+      {
+        term: "to be eager to do sth",
+        translation: "сильно хотіти щось зробити",
+        examples: [
+          <span>
+            She is <strong>eager to learn</strong> English.
+          </span>,
+          <span>
+            They are <strong>eager to start</strong> the project.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
