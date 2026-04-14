@@ -3907,4 +3907,189 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "14.04.2026",
+    words: [
+      {
+        term: "that will do",
+        translation: "цього достатньо / підійде",
+        examples: [
+          <span>
+            That’s enough, <strong>that will do</strong>.
+          </span>,
+          <span>
+            This amount is fine, <strong>that will do</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "goggles",
+        translation: "захисні окуляри",
+        examples: [
+          <span>
+            Wear <strong>goggles</strong> when swimming.
+          </span>,
+          <span>
+            He put on his <strong>goggles</strong> before diving.
+          </span>,
+        ],
+      },
+      {
+        term: "pond",
+        translation: "ставок",
+        examples: [
+          <span>
+            There is a small <strong>pond</strong> in the garden.
+          </span>,
+          <span>
+            Ducks were swimming in the <strong>pond</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "dumbbells",
+        translation: "гантелі",
+        examples: [
+          <span>
+            He trains with <strong>dumbbells</strong> every day.
+          </span>,
+          <span>
+            These <strong>dumbbells</strong> are too heavy for me.
+          </span>,
+        ],
+      },
+      {
+        term: "gym",
+        translation: "спортзал",
+        examples: [
+          <span>
+            I go to the <strong>gym</strong> three times a week.
+          </span>,
+          <span>
+            The <strong>gym</strong> is open 24/7.
+          </span>,
+        ],
+      },
+      {
+        term: "go running",
+        translation: "бігати",
+        examples: [
+          <span>
+            I usually <strong>go running</strong> in the morning.
+          </span>,
+          <span>
+            They <strong>went running</strong> in the park.
+          </span>,
+        ],
+      },
+      {
+        term: "a pull-up bar",
+        translation: "турнік",
+        examples: [
+          <span>
+            He installed <strong>a pull-up bar</strong> at home.
+          </span>,
+          <span>
+            I can do ten pull-ups on <strong>the pull-up bar</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "facilities",
+        translation: "зручності / обладнання",
+        examples: [
+          <span>
+            The hotel has great <strong>facilities</strong>.
+          </span>,
+          <span>
+            Sports <strong>facilities</strong> are available here.
+          </span>,
+        ],
+      },
+      {
+        term: "available",
+        translation: "доступний",
+        examples: [
+          <span>
+            The room is <strong>available</strong> now.
+          </span>,
+          <span>
+            This service is not <strong>available</strong> today.
+          </span>,
+        ],
+      },
+      {
+        term: "arrangements",
+        translation: "домовленості / організація",
+        examples: [
+          <span>
+            We made all the <strong>arrangements</strong> for the trip.
+          </span>,
+          <span>
+            Travel <strong>arrangements</strong> can be stressful.
+          </span>,
+        ],
+      },
+      {
+        term: "take it easy",
+        translation: "розслабся / не переймайся",
+        examples: [
+          <span>
+            <strong>Take it easy</strong>, everything will be fine.
+          </span>,
+          <span>
+            You should <strong>take it easy</strong> after work.
+          </span>,
+        ],
+      },
+      {
+        term: "go for a walk",
+        translation: "піти на прогулянку",
+        examples: [
+          <span>
+            Let’s <strong>go for a walk</strong>.
+          </span>,
+          <span>
+            They <strong>went for a walk</strong> in the evening.
+          </span>,
+        ],
+      },
+      {
+        term: "spare / free time",
+        translation: "вільний час",
+        examples: [
+          <span>
+            I read books in my <strong>spare time</strong>.
+          </span>,
+          <span>
+            What do you do in your <strong>free time</strong>?
+          </span>,
+        ],
+      },
+      {
+        term: "to make the most (of)",
+        translation: "використовувати максимально",
+        examples: [
+          <span>
+            Try <strong>to make the most of</strong> your time.
+          </span>,
+          <span>
+            She <strong>made the most of</strong> the opportunity.
+          </span>,
+        ],
+      },
+      {
+        term: "to leave a hotel",
+        translation: "виїжджати з готелю",
+        examples: [
+          <span>
+            We need <strong>to leave the hotel</strong> by noon.
+          </span>,
+          <span>
+            They <strong>left the hotel</strong> early in the morning.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
