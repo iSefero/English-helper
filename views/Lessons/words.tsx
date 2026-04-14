@@ -3908,7 +3908,7 @@ export const lessons = [
     ],
   },
   {
-    date: "14.04.2026",
+    date: "04.14.2026",
     words: [
       {
         term: "that will do",
