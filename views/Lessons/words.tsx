@@ -4092,4 +4092,266 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "04.21.2026",
+    words: [
+      {
+        term: "grave",
+        translation: "могила",
+        examples: [
+          <span>
+            He was buried in a <strong>grave</strong> near the church.
+          </span>,
+          <span>
+            Flowers were placed on the <strong>grave</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "cemetery",
+        translation: "кладовище",
+        examples: [
+          <span>
+            The <strong>cemetery</strong> is very old.
+          </span>,
+          <span>
+            They visited their grandparents at the <strong>cemetery</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "I'm all ears",
+        translation: "я уважно слухаю",
+        examples: [
+          <span>
+            Tell me everything, <strong>I'm all ears</strong>.
+          </span>,
+          <span>
+            Go ahead, <strong>I'm all ears</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "trench",
+        translation: "траншея",
+        examples: [
+          <span>
+            Soldiers hid in the <strong>trench</strong>.
+          </span>,
+          <span>
+            They dug a deep <strong>trench</strong> for drainage.
+          </span>,
+        ],
+      },
+      {
+        term: "ditch",
+        translation: "канава / рів",
+        examples: [
+          <span>
+            The car slid into a <strong>ditch</strong>.
+          </span>,
+          <span>
+            Water flows through the <strong>ditch</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "help yourself",
+        translation: "пригощайся / бери сам",
+        examples: [
+          <span>
+            There’s food on the table, <strong>help yourself</strong>.
+          </span>,
+          <span>
+            Please <strong>help yourself</strong> to some coffee.
+          </span>,
+        ],
+      },
+      {
+        term: "litigate",
+        translation: "судитися / вести судову справу",
+        examples: [
+          <span>
+            They decided to <strong>litigate</strong> the dispute.
+          </span>,
+          <span>
+            It can be expensive to <strong>litigate</strong> a case.
+          </span>,
+        ],
+      },
+    ],
+  },
+  {
+    date: "04.23.2026",
+    words: [
+      {
+        term: "pressure",
+        translation: "тиск / напруга",
+        examples: [
+          <span>
+            He works well under <strong>pressure</strong>.
+          </span>,
+          <span>
+            There is a lot of <strong>pressure</strong> at work.
+          </span>,
+        ],
+      },
+      {
+        term: "a rehearsal",
+        translation: "репетиція",
+        examples: [
+          <span>
+            The band had a <strong>rehearsal</strong> before the concert.
+          </span>,
+          <span>
+            We need one more <strong>rehearsal</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to have something done",
+        translation: "мати щось зробленим (коли хтось робить для тебе)",
+        examples: [
+          <span>
+            I <strong>had my hair cut</strong> yesterday.
+          </span>,
+          <span>
+            She <strong>had her car repaired</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "value of money",
+        translation: "цінність грошей",
+        examples: [
+          <span>
+            He understands the <strong>value of money</strong>.
+          </span>,
+          <span>
+            Children should learn the <strong>value of money</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "a pile",
+        translation: "купа",
+        examples: [
+          <span>
+            There is a <strong>pile</strong> of clothes on the chair.
+          </span>,
+          <span>
+            He threw the papers into a <strong>pile</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "give up",
+        translation: "здаватися / кидати (звичку)",
+        examples: [
+          <span>
+            Don’t <strong>give up</strong> so easily.
+          </span>,
+          <span>
+            He decided to <strong>give up</strong> smoking.
+          </span>,
+        ],
+      },
+      {
+        term: "to clutter",
+        translation: "захаращувати",
+        examples: [
+          <span>
+            Don’t <strong>clutter</strong> your desk with papers.
+          </span>,
+          <span>
+            Too many things <strong>clutter</strong> the room.
+          </span>,
+        ],
+      },
+      {
+        term: "to unclutter",
+        translation: "розчищати / прибирати зайве",
+        examples: [
+          <span>
+            I need to <strong>unclutter</strong> my workspace.
+          </span>,
+          <span>
+            She <strong>uncluttered</strong> the room before guests arrived.
+          </span>,
+        ],
+      },
+      {
+        term: "cluttered room",
+        translation: "захаращена кімната",
+        examples: [
+          <span>
+            He lives in a <strong>cluttered room</strong>.
+          </span>,
+          <span>
+            I can't focus in a <strong>cluttered room</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "a scar",
+        translation: "шрам",
+        examples: [
+          <span>
+            He has a <strong>scar</strong> on his face.
+          </span>,
+          <span>
+            The injury left a <strong>scar</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "equal quantity of",
+        translation: "однакова кількість",
+        examples: [
+          <span>
+            Both teams had an <strong>equal quantity of</strong> points.
+          </span>,
+          <span>
+            We need an <strong>equal quantity of</strong> ingredients.
+          </span>,
+        ],
+      },
+      {
+        term: "a bad loser",
+        translation: "поганий програвший (той, хто не вміє програвати)",
+        examples: [
+          <span>
+            He is a <strong>bad loser</strong> and gets angry.
+          </span>,
+          <span>
+            Don’t be <strong>a bad loser</strong>, it’s just a game.
+          </span>,
+        ],
+      },
+      {
+        term: "offensive",
+        translation: "образливий",
+        examples: [
+          <span>
+            His comment was <strong>offensive</strong>.
+          </span>,
+          <span>
+            That joke is really <strong>offensive</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "take on a challenge",
+        translation: "прийняти виклик",
+        examples: [
+          <span>
+            She decided to <strong>take on a challenge</strong>.
+          </span>,
+          <span>
+            He likes to <strong>take on new challenges</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
