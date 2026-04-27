@@ -4179,6 +4179,18 @@ export const lessons = [
           </span>,
         ],
       },
+      {
+        term: "piggy bank",
+        translation: "скарбничка",
+        examples: [
+          <span>
+            I keep my coins in a <strong>piggy bank</strong>.
+          </span>,
+          <span>
+            She broke her <strong>piggy bank</strong> to buy a gift.
+          </span>,
+        ],
+      },
     ],
   },
   {
