@@ -4366,4 +4366,141 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "04.28.2026",
+    words: [
+      {
+        term: "to envy",
+        translation: "заздрити",
+        examples: [
+          <span>
+            I <strong>envy</strong> his confidence.
+          </span>,
+          <span>
+            She doesn’t <strong>envy</strong> anyone.
+          </span>,
+        ],
+      },
+      {
+        term: "to be envious of",
+        translation: "заздрити комусь / чомусь",
+        examples: [
+          <span>
+            He is <strong>envious of</strong> her success.
+          </span>,
+          <span>
+            They are <strong>envious of</strong> his lifestyle.
+          </span>,
+        ],
+      },
+      {
+        term: "to grasp",
+        translation: "схопити / зрозуміти",
+        examples: [
+          <span>
+            It’s hard to <strong>grasp</strong> this idea.
+          </span>,
+          <span>
+            She quickly <strong>grasped</strong> the concept.
+          </span>,
+        ],
+      },
+      {
+        term: "an instance of",
+        translation: "випадок / приклад чогось",
+        examples: [
+          <span>
+            This is an <strong>instance of</strong> good teamwork.
+          </span>,
+          <span>
+            We saw another <strong>instance of</strong> bad behavior.
+          </span>,
+        ],
+      },
+      {
+        term: "plump",
+        translation: "повненький / пухкий",
+        examples: [
+          <span>
+            The baby is cute and <strong>plump</strong>.
+          </span>,
+          <span>
+            She has <strong>plump</strong> cheeks.
+          </span>,
+        ],
+      },
+      {
+        term: "intelligent",
+        translation: "розумний",
+        examples: [
+          <span>
+            He is very <strong>intelligent</strong>.
+          </span>,
+          <span>
+            This is an <strong>intelligent</strong> solution.
+          </span>,
+        ],
+      },
+      {
+        term: "bright",
+        translation: "розумний / яскравий",
+        examples: [
+          <span>
+            She is a <strong>bright</strong> student.
+          </span>,
+          <span>
+            The room is <strong>bright</strong> and clean.
+          </span>,
+        ],
+      },
+      {
+        term: "spectator",
+        translation: "глядач (на події)",
+        examples: [
+          <span>
+            The stadium was full of <strong>spectators</strong>.
+          </span>,
+          <span>
+            Every <strong>spectator</strong> enjoyed the game.
+          </span>,
+        ],
+      },
+      {
+        term: "a viewer",
+        translation: "глядач (ТБ / онлайн)",
+        examples: [
+          <span>
+            The show attracted many <strong>viewers</strong>.
+          </span>,
+          <span>
+            Each <strong>viewer</strong> has their own opinion.
+          </span>,
+        ],
+      },
+      {
+        term: "violence",
+        translation: "насильство",
+        examples: [
+          <span>
+            The movie contains scenes of <strong>violence</strong>.
+          </span>,
+          <span>
+            We should reduce <strong>violence</strong> in society.
+          </span>,
+        ],
+      },
+      {
+        term: "pace of life",
+        translation: "темп життя",
+        examples: [
+          <span>
+            The <strong>pace of life</strong> in the city is fast.
+          </span>,
+          <span>
+            He prefers a slower <strong>pace of life</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
