@@ -4503,4 +4503,189 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "04.30.2026",
+    words: [
+      {
+        term: "to compete",
+        translation: "змагатися",
+        examples: [
+          <span>
+            They <strong>compete</strong> in international tournaments.
+          </span>,
+          <span>
+            Many companies <strong>compete</strong> for customers.
+          </span>,
+        ],
+      },
+      {
+        term: "violent",
+        translation: "насильницький / агресивний",
+        examples: [
+          <span>
+            The movie is very <strong>violent</strong>.
+          </span>,
+          <span>
+            He became <strong>violent</strong> during the argument.
+          </span>,
+        ],
+      },
+      {
+        term: "a rival / an opponent",
+        translation: "суперник",
+        examples: [
+          <span>
+            He defeated his <strong>rival</strong> in the final.
+          </span>,
+          <span>
+            The team faced a strong <strong>opponent</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to rival",
+        translation: "конкурувати / бути на рівні",
+        examples: [
+          <span>
+            This brand can <strong>rival</strong> the best in the market.
+          </span>,
+          <span>
+            Her performance <strong>rivals</strong> that of professionals.
+          </span>,
+        ],
+      },
+      {
+        term: "to have a sweet tooth",
+        translation: "любити солодке",
+        examples: [
+          <span>
+            I <strong>have a sweet tooth</strong> and eat desserts often.
+          </span>,
+          <span>
+            He <strong>has a sweet tooth</strong> and loves chocolate.
+          </span>,
+        ],
+      },
+      {
+        term: "go hand in hand",
+        translation: "йти пліч-о-пліч / бути пов’язаними",
+        examples: [
+          <span>
+            Success and hard work <strong>go hand in hand</strong>.
+          </span>,
+          <span>
+            These problems often <strong>go hand in hand</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "dead end",
+        translation: "глухий кут",
+        examples: [
+          <span>
+            We reached a <strong>dead end</strong> in our investigation.
+          </span>,
+          <span>
+            This job feels like a <strong>dead end</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "resilience",
+        translation: "стійкість",
+        examples: [
+          <span>
+            Her <strong>resilience</strong> helped her succeed.
+          </span>,
+          <span>
+            We admire his <strong>resilience</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "resilient",
+        translation: "стійкий",
+        examples: [
+          <span>
+            Children are often very <strong>resilient</strong>.
+          </span>,
+          <span>
+            She is strong and <strong>resilient</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to will",
+        translation: "заповісти / виявляти волю",
+        examples: [
+          <span>
+            He <strong>willed</strong> his house to his son.
+          </span>,
+          <span>
+            She <strong>willed</strong> herself to stay calm.
+          </span>,
+        ],
+      },
+      {
+        term: "entrepreneur",
+        translation: "підприємець",
+        examples: [
+          <span>
+            He is a successful <strong>entrepreneur</strong>.
+          </span>,
+          <span>
+            Many young <strong>entrepreneurs</strong> start online businesses.
+          </span>,
+        ],
+      },
+      {
+        term: "embrace failure",
+        translation: "приймати невдачі",
+        examples: [
+          <span>
+            You should <strong>embrace failure</strong> and learn from it.
+          </span>,
+          <span>
+            Successful people <strong>embrace failure</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to prevent sb/sth from doing sth",
+        translation: "перешкоджати комусь/чомусь робити щось",
+        examples: [
+          <span>
+            Nothing can <strong>prevent him from succeeding</strong>.
+          </span>,
+          <span>
+            The law <strong>prevents people from smoking</strong> here.
+          </span>,
+        ],
+      },
+      {
+        term: "to aim to do sth",
+        translation: "мати на меті зробити щось",
+        examples: [
+          <span>
+            We <strong>aim to improve</strong> our service.
+          </span>,
+          <span>
+            She <strong>aims to become</strong> a doctor.
+          </span>,
+        ],
+      },
+      {
+        term: "is banned",
+        translation: "заборонено",
+        examples: [
+          <span>
+            Smoking <strong>is banned</strong> in this area.
+          </span>,
+          <span>
+            This product <strong>is banned</strong> in many countries.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
