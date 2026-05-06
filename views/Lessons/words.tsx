@@ -4688,4 +4688,153 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "05.05.2026",
+    words: [
+      {
+        term: "wisdom",
+        translation: "мудрість",
+        examples: [
+          <span>
+            He is known for his <strong>wisdom</strong>.
+          </span>,
+          <span>
+            With age comes <strong>wisdom</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "wise",
+        translation: "мудрий",
+        examples: [
+          <span>
+            She gave me a <strong>wise</strong> piece of advice.
+          </span>,
+          <span>
+            It was <strong>wise</strong> to wait before making a decision.
+          </span>,
+        ],
+      },
+      {
+        term: "trust / follow your gut",
+        translation: "довіряти інтуїції",
+        examples: [
+          <span>
+            You should <strong>trust your gut</strong> in this situation.
+          </span>,
+          <span>
+            I decided to <strong>follow my gut</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "lack of sth",
+        translation: "нестача чогось",
+        examples: [
+          <span>
+            There is a <strong>lack of time</strong> to finish the project.
+          </span>,
+          <span>
+            The team failed due to a <strong>lack of experience</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to lack",
+        translation: "не вистачати",
+        examples: [
+          <span>
+            He <strong>lacks</strong> confidence.
+          </span>,
+          <span>
+            The plan <strong>lacks</strong> clear details.
+          </span>,
+        ],
+      },
+      {
+        term: "dramatic increase",
+        translation: "різке зростання",
+        examples: [
+          <span>
+            There was a <strong>dramatic increase</strong> in prices.
+          </span>,
+          <span>
+            The company saw a <strong>dramatic increase</strong> in sales.
+          </span>,
+        ],
+      },
+      {
+        term: "to help reduce",
+        translation: "допомагати зменшити",
+        examples: [
+          <span>
+            This method <strong>helps reduce</strong> costs.
+          </span>,
+          <span>
+            Exercise can <strong>help reduce</strong> stress.
+          </span>,
+        ],
+      },
+      {
+        term: "to occupy",
+        translation: "займати (місце/час)",
+        examples: [
+          <span>
+            The sofa <strong>occupies</strong> too much space.
+          </span>,
+          <span>
+            This task will <strong>occupy</strong> most of your day.
+          </span>,
+        ],
+      },
+      {
+        term: "complicated",
+        translation: "складний",
+        examples: [
+          <span>
+            The instructions are too <strong>complicated</strong>.
+          </span>,
+          <span>
+            It’s a <strong>complicated</strong> problem to solve.
+          </span>,
+        ],
+      },
+      {
+        term: "to make a difference",
+        translation: "мати значення / впливати",
+        examples: [
+          <span>
+            Small actions can <strong>make a difference</strong>.
+          </span>,
+          <span>
+            Your support really <strong>made a difference</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to owe money / to have debts",
+        translation: "бути винним гроші / мати борги",
+        examples: [
+          <span>
+            I <strong>owe money</strong> to the bank.
+          </span>,
+          <span>
+            He <strong>has debts</strong> to pay.
+          </span>,
+        ],
+      },
+      {
+        term: "to pay off the debts",
+        translation: "погасити борги",
+        examples: [
+          <span>
+            She worked hard to <strong>pay off her debts</strong>.
+          </span>,
+          <span>
+            It took years to <strong>pay off the debts</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
