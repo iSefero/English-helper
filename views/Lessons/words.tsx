@@ -4837,4 +4837,234 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "05.07.2026",
+    words: [
+      {
+        term: "to regret",
+        translation: "шкодувати",
+        examples: [
+          <span>
+            I <strong>regret</strong> my decision.
+          </span>,
+          <span>
+            She <strong>regrets</strong> saying those words.
+          </span>,
+        ],
+      },
+      {
+        term: "regret doing something",
+        translation: "шкодувати про те, що зробив",
+        examples: [
+          <span>
+            He <strong>regrets quitting</strong> his job.
+          </span>,
+          <span>
+            I <strong>regret telling</strong> her the truth.
+          </span>,
+        ],
+      },
+      {
+        term: "to regret to do something",
+        translation: "із жалем повідомляти / робити щось",
+        examples: [
+          <span>
+            We <strong>regret to inform</strong> you about the cancellation.
+          </span>,
+          <span>
+            I <strong>regret to say</strong> that your application was rejected.
+          </span>,
+        ],
+      },
+      {
+        term: "beehive",
+        translation: "вулик",
+        examples: [
+          <span>
+            The bees returned to the <strong>beehive</strong>.
+          </span>,
+          <span>
+            There is a large <strong>beehive</strong> in the garden.
+          </span>,
+        ],
+      },
+      {
+        term: "to pass away",
+        translation: "піти з життя / померти",
+        examples: [
+          <span>
+            His grandfather <strong>passed away</strong> last year.
+          </span>,
+          <span>
+            She was sad when her dog <strong>passed away</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to pass out",
+        translation: "знепритомніти",
+        examples: [
+          <span>
+            He <strong>passed out</strong> from the heat.
+          </span>,
+          <span>
+            She almost <strong>passed out</strong> after the accident.
+          </span>,
+        ],
+      },
+      {
+        term: "in return",
+        translation: "у відповідь / натомість",
+        examples: [
+          <span>
+            He helped me, and I helped him <strong>in return</strong>.
+          </span>,
+          <span>
+            She gave me a gift, and I bought her flowers{" "}
+            <strong>in return</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "both ... and",
+        translation: "і ... і",
+        examples: [
+          <span>
+            She speaks <strong>both</strong> English <strong>and</strong>{" "}
+            Spanish.
+          </span>,
+          <span>
+            <strong>Both</strong> the manager <strong>and</strong> the staff
+            agreed.
+          </span>,
+        ],
+      },
+      {
+        term: "venue",
+        translation: "місце проведення",
+        examples: [
+          <span>
+            The concert <strong>venue</strong> was full of people.
+          </span>,
+          <span>
+            They are looking for a wedding <strong>venue</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
+  {
+    date: "05.11.2026",
+    words: [
+      {
+        term: "along the shore",
+        translation: "вздовж берега",
+        examples: [
+          <span>
+            We walked <strong>along the shore</strong> at sunset.
+          </span>,
+          <span>
+            There were many small boats <strong>along the shore</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "get together",
+        translation: "зустрічатися / збиратися разом",
+        examples: [
+          <span>
+            Our family usually <strong>gets together</strong> on holidays.
+          </span>,
+          <span>
+            Let’s <strong>get together</strong> this weekend.
+          </span>,
+        ],
+      },
+      {
+        term: "cling to the wall",
+        translation: "триматися за стіну",
+        examples: [
+          <span>
+            He had to <strong>cling to the wall</strong> to keep his balance.
+          </span>,
+          <span>
+            She slowly moved forward, <strong>clinging to the wall</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "slippery",
+        translation: "слизький",
+        examples: [
+          <span>
+            Be careful, the floor is <strong>slippery</strong>.
+          </span>,
+          <span>
+            The road became <strong>slippery</strong> after the rain.
+          </span>,
+        ],
+      },
+      {
+        term: "float",
+        translation: "плавати на поверхні",
+        examples: [
+          <span>
+            Leaves <strong>floated</strong> on the water.
+          </span>,
+          <span>
+            Can you <strong>float</strong> on your back?
+          </span>,
+        ],
+      },
+      {
+        term: "no one",
+        translation: "ніхто",
+        examples: [
+          <span>
+            <strong>No one</strong> knew the answer.
+          </span>,
+          <span>
+            There was <strong>no one</strong> in the room.
+          </span>,
+        ],
+      },
+      {
+        term: "drown",
+        translation: "тонути",
+        examples: [
+          <span>
+            The man almost <strong>drowned</strong> in the river.
+          </span>,
+          <span>
+            She shouted for help because she couldn’t swim and might{" "}
+            <strong>drown</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "infinitely grateful",
+        translation: "безмежно вдячний",
+        examples: [
+          <span>
+            I am <strong>infinitely grateful</strong> for your support.
+          </span>,
+          <span>
+            She felt <strong>infinitely grateful</strong> to her parents.
+          </span>,
+        ],
+      },
+      {
+        term: "I managed to do",
+        translation: "мені вдалося зробити",
+        examples: [
+          <span>
+            I <strong>managed to finish</strong> the project on time.
+          </span>,
+          <span>
+            He <strong>managed to fix</strong> the problem himself.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
