@@ -5067,4 +5067,237 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "05.12.2026",
+    words: [
+      {
+        term: "resist doing sth",
+        translation: "стримуватись від чогось / не піддаватися",
+        examples: [
+          <span>
+            I couldn’t <strong>resist eating</strong> the cake.
+          </span>,
+          <span>
+            She tried to <strong>resist laughing</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "give up doing sth",
+        translation: "кинути робити щось",
+        examples: [
+          <span>
+            He <strong>gave up smoking</strong> last year.
+          </span>,
+          <span>
+            She wants to <strong>give up wasting</strong> time online.
+          </span>,
+        ],
+      },
+      {
+        term: "reason",
+        translation: "причина",
+        examples: [
+          <span>
+            What is the <strong>reason</strong> for your decision?
+          </span>,
+          <span>
+            There must be a good <strong>reason</strong> for this change.
+          </span>,
+        ],
+      },
+      {
+        term: "to cause no harm",
+        translation: "не завдавати шкоди",
+        examples: [
+          <span>
+            This medicine should <strong>cause no harm</strong>.
+          </span>,
+          <span>
+            His actions <strong>caused no harm</strong> to anyone.
+          </span>,
+        ],
+      },
+      {
+        term: "poor quality",
+        translation: "погана якість",
+        examples: [
+          <span>
+            The product was of <strong>poor quality</strong>.
+          </span>,
+          <span>
+            I returned the shoes because of their <strong>poor quality</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "stale bread",
+        translation: "черствий хліб",
+        examples: [
+          <span>
+            The <strong>bread was stale</strong> after two days.
+          </span>,
+          <span>
+            We used <strong>stale bread</strong> to make croutons.
+          </span>,
+        ],
+      },
+      {
+        term: "spoiled food / child",
+        translation: "зіпсована їжа / розбещена дитина",
+        examples: [
+          <span>
+            The milk was <strong>spoiled</strong>.
+          </span>,
+          <span>
+            Their son is a <strong>spoiled child</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "unfair",
+        translation: "несправедливий",
+        examples: [
+          <span>
+            That decision was <strong>unfair</strong>.
+          </span>,
+          <span>
+            It’s <strong>unfair</strong> to blame only one person.
+          </span>,
+        ],
+      },
+      {
+        term: "slave",
+        translation: "раб",
+        examples: [
+          <span>
+            The man was sold as a <strong>slave</strong>.
+          </span>,
+          <span>
+            Many <strong>slaves</strong> worked under terrible conditions.
+          </span>,
+        ],
+      },
+      {
+        term: "slavery",
+        translation: "рабство",
+        examples: [
+          <span>
+            <strong>Slavery</strong> existed in many countries in the past.
+          </span>,
+          <span>
+            The book discusses the history of <strong>slavery</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "uneven shape",
+        translation: "нерівна форма",
+        examples: [
+          <span>
+            The stone had an <strong>uneven shape</strong>.
+          </span>,
+          <span>
+            Handmade objects often have an <strong>uneven shape</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "equal",
+        translation: "рівний / однаковий",
+        examples: [
+          <span>
+            All students should have <strong>equal</strong> opportunities.
+          </span>,
+          <span>
+            The two boxes are <strong>equal</strong> in size.
+          </span>,
+        ],
+      },
+      {
+        term: "equality",
+        translation: "рівність",
+        examples: [
+          <span>
+            They are fighting for gender <strong>equality</strong>.
+          </span>,
+          <span>
+            <strong>Equality</strong> is an important value in society.
+          </span>,
+        ],
+      },
+      {
+        term: "inequality",
+        translation: "нерівність",
+        examples: [
+          <span>
+            Economic <strong>inequality</strong> is growing.
+          </span>,
+          <span>
+            The report focuses on social <strong>inequality</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "consumer choices",
+        translation: "вибір споживачів",
+        examples: [
+          <span>
+            Prices influence <strong>consumer choices</strong>.
+          </span>,
+          <span>
+            Advertising affects our <strong>consumer choices</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to consume responsibly",
+        translation: "споживати відповідально",
+        examples: [
+          <span>
+            We should <strong>consume responsibly</strong> to reduce waste.
+          </span>,
+          <span>
+            More people are trying to <strong>consume responsibly</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to treat people",
+        translation: "ставитися до людей",
+        examples: [
+          <span>
+            You should <strong>treat people</strong> with respect.
+          </span>,
+          <span>
+            He always <strong>treats people</strong> kindly.
+          </span>,
+        ],
+      },
+      {
+        term: "an employer",
+        translation: "роботодавець",
+        examples: [
+          <span>
+            Her <strong>employer</strong> offered her a new contract.
+          </span>,
+          <span>
+            A good <strong>employer</strong> values employees.
+          </span>,
+        ],
+      },
+      {
+        term: "an employee",
+        translation: "працівник",
+        examples: [
+          <span>
+            Every <strong>employee</strong> received training.
+          </span>,
+          <span>
+            The company has over 200 <strong>employees</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
