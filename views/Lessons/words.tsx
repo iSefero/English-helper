@@ -5300,4 +5300,83 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "14.05.2026",
+    words: [
+      {
+        term: "to decide",
+        translation: "вирішувати",
+        examples: [
+          <span>
+            I need <strong>to decide</strong> what to do next.
+          </span>,
+          <span>
+            She finally <strong>decided</strong> to move abroad.
+          </span>,
+        ],
+      },
+      {
+        term: "contribution",
+        translation: "внесок",
+        examples: [
+          <span>
+            He made an important <strong>contribution</strong> to the project.
+          </span>,
+          <span>
+            Thank you for your <strong>contribution</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "harmful",
+        translation: "шкідливий",
+        examples: [
+          <span>
+            Smoking is <strong>harmful</strong> to your health.
+          </span>,
+          <span>
+            Too much stress can be <strong>harmful</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to bury the dead",
+        translation: "ховати померлих",
+        examples: [
+          <span>
+            The villagers gathered <strong>to bury the dead</strong>.
+          </span>,
+          <span>
+            They came together <strong>to bury the dead</strong> after the
+            tragedy.
+          </span>,
+        ],
+      },
+      {
+        term: "to be in your fifties",
+        translation: "бути у віці 50+ років",
+        examples: [
+          <span>
+            He is <strong>in his fifties</strong> but still very active.
+          </span>,
+          <span>
+            Many people <strong>in their fifties</strong> change careers.
+          </span>,
+        ],
+      },
+      {
+        term: "sweet spot",
+        translation: "ідеальний баланс / оптимальна точка",
+        examples: [
+          <span>
+            This temperature is the <strong>sweet spot</strong> for cooking
+            meat.
+          </span>,
+          <span>
+            We found the <strong>sweet spot</strong> between quality and price.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
