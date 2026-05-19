@@ -5301,7 +5301,7 @@ export const lessons = [
     ],
   },
   {
-    date: "14.05.2026",
+    date: "05.14.2026",
     words: [
       {
         term: "to decide",
