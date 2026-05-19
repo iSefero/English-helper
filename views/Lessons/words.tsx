@@ -5379,4 +5379,120 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "05.19.2026",
+    words: [
+      {
+        term: "to be on the same page",
+        translation: "бути на одній хвилі / однаково розуміти ситуацію",
+        examples: [
+          <span>
+            We need <strong>to be on the same page</strong> before starting the
+            project.
+          </span>,
+          <span>
+            I thought we were <strong>on the same page</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "have a baby",
+        translation: "народити дитину / мати дитину",
+        examples: [
+          <span>
+            They are going <strong>to have a baby</strong> soon.
+          </span>,
+          <span>
+            My sister <strong>had a baby</strong> last year.
+          </span>,
+        ],
+      },
+      {
+        term: "an exchanging trip",
+        translation: "обмінна поїздка",
+        examples: [
+          <span>
+            She went to Germany on <strong>an exchanging trip</strong>.
+          </span>,
+          <span>
+            The students joined <strong>an exchanging trip</strong> last summer.
+          </span>,
+        ],
+      },
+      {
+        term: "to be good at",
+        translation: "бути хорошим у чомусь",
+        examples: [
+          <span>
+            He is <strong>good at</strong> math.
+          </span>,
+          <span>
+            She is really <strong>good at</strong> cooking.
+          </span>,
+        ],
+      },
+      {
+        term: "don't tell tall tales",
+        translation: "не розказуй небилиці / не бреши",
+        examples: [
+          <span>
+            <strong>Don’t tell tall tales</strong> to children.
+          </span>,
+          <span>
+            He likes <strong>telling tall tales</strong> about his adventures.
+          </span>,
+        ],
+      },
+      {
+        term: "elder sister",
+        translation: "старша сестра",
+        examples: [
+          <span>
+            My <strong>elder sister</strong> lives in Poland.
+          </span>,
+          <span>
+            His <strong>elder sister</strong> helped him a lot.
+          </span>,
+        ],
+      },
+      {
+        term: "take sb to the kindergarten",
+        translation: "відводити когось у садочок",
+        examples: [
+          <span>
+            I <strong>take my son to the kindergarten</strong> every morning.
+          </span>,
+          <span>
+            She asked me{" "}
+            <strong>to take her daughter to the kindergarten</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "pick sb up from school",
+        translation: "забирати когось зі школи",
+        examples: [
+          <span>
+            I usually <strong>pick my brother up from school</strong>.
+          </span>,
+          <span>
+            Can you <strong>pick the kids up from school</strong> today?
+          </span>,
+        ],
+      },
+      {
+        term: "arrived on a humanitarian mission",
+        translation: "приїхали з гуманітарною місією",
+        examples: [
+          <span>
+            Volunteers <strong>arrived on a humanitarian mission</strong>.
+          </span>,
+          <span>
+            The doctors <strong>arrived on a humanitarian mission</strong> to
+            help local people.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
