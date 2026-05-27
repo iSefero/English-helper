@@ -5496,104 +5496,169 @@ export const lessons = [
     ],
   },
   {
-  date: "05.21.2026",
-  words: [
-    {
-      term: "despite / in spite of",
-      translation: "незважаючи на",
-      examples: [
-        <span>
-          <strong>Despite</strong> the rain, we went outside.
-        </span>,
-        <span>
-          <strong>In spite of</strong> his age, he works a lot.
-        </span>,
-      ],
-    },
-    {
-      term: "to be at rest",
-      translation: "бути у стані спокою / відпочивати",
-      examples: [
-        <span>
-          His body was finally <strong>at rest</strong>.
-        </span>,
-        <span>
-          I feel calm when I am <strong>at rest</strong>.
-        </span>,
-      ],
-    },
-    {
-      term: "crucial",
-      translation: "вирішальний / надзвичайно важливий",
-      examples: [
-        <span>
-          This decision is <strong>crucial</strong> for the project.
-        </span>,
-        <span>
-          Sleep is <strong>crucial</strong> for good health.
-        </span>,
-      ],
-    },
-    {
-      term: "self-confident",
-      translation: "впевнений у собі",
-      examples: [
-        <span>
-          She looks very <strong>self-confident</strong>.
-        </span>,
-        <span>
-          He became more <strong>self-confident</strong> after practice.
-        </span>,
-      ],
-    },
-    {
-      term: "hospitality",
-      translation: "гостинність",
-      examples: [
-        <span>
-          We were impressed by their <strong>hospitality</strong>.
-        </span>,
-        <span>
-          Ukrainian <strong>hospitality</strong> is well known.
-        </span>,
-      ],
-    },
-    {
-      term: "hospitable",
-      translation: "гостинний",
-      examples: [
-        <span>
-          The hosts were very <strong>hospitable</strong>.
-        </span>,
-        <span>
-          It is a small but <strong>hospitable</strong> town.
-        </span>,
-      ],
-    },
-    {
-      term: "to be into",
-      translation: "захоплюватися чимось",
-      examples: [
-        <span>
-          She is really <strong>into</strong> photography.
-        </span>,
-        <span>
-          I’m <strong>into</strong> old movies these days.
-        </span>,
-      ],
-    },
-    {
-      term: "take a photo",
-      translation: "зробити фото",
-      examples: [
-        <span>
-          Can you <strong>take a photo</strong> of us?
-        </span>,
-        <span>
-          He stopped to <strong>take a photo</strong> of the sunset.
-        </span>,
-      ],
-    },
-  ],
-},
+    date: "05.21.2026",
+    words: [
+      {
+        term: "despite / in spite of",
+        translation: "незважаючи на",
+        examples: [
+          <span>
+            <strong>Despite</strong> the rain, we went outside.
+          </span>,
+          <span>
+            <strong>In spite of</strong> his age, he works a lot.
+          </span>,
+        ],
+      },
+      {
+        term: "to be at rest",
+        translation: "бути у стані спокою / відпочивати",
+        examples: [
+          <span>
+            His body was finally <strong>at rest</strong>.
+          </span>,
+          <span>
+            I feel calm when I am <strong>at rest</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "crucial",
+        translation: "вирішальний / надзвичайно важливий",
+        examples: [
+          <span>
+            This decision is <strong>crucial</strong> for the project.
+          </span>,
+          <span>
+            Sleep is <strong>crucial</strong> for good health.
+          </span>,
+        ],
+      },
+      {
+        term: "self-confident",
+        translation: "впевнений у собі",
+        examples: [
+          <span>
+            She looks very <strong>self-confident</strong>.
+          </span>,
+          <span>
+            He became more <strong>self-confident</strong> after practice.
+          </span>,
+        ],
+      },
+      {
+        term: "hospitality",
+        translation: "гостинність",
+        examples: [
+          <span>
+            We were impressed by their <strong>hospitality</strong>.
+          </span>,
+          <span>
+            Ukrainian <strong>hospitality</strong> is well known.
+          </span>,
+        ],
+      },
+      {
+        term: "hospitable",
+        translation: "гостинний",
+        examples: [
+          <span>
+            The hosts were very <strong>hospitable</strong>.
+          </span>,
+          <span>
+            It is a small but <strong>hospitable</strong> town.
+          </span>,
+        ],
+      },
+      {
+        term: "to be into",
+        translation: "захоплюватися чимось",
+        examples: [
+          <span>
+            She is really <strong>into</strong> photography.
+          </span>,
+          <span>
+            I’m <strong>into</strong> old movies these days.
+          </span>,
+        ],
+      },
+      {
+        term: "take a photo",
+        translation: "зробити фото",
+        examples: [
+          <span>
+            Can you <strong>take a photo</strong> of us?
+          </span>,
+          <span>
+            He stopped to <strong>take a photo</strong> of the sunset.
+          </span>,
+        ],
+      },
+    ],
+  },
+  {
+    date: "05.26.2026",
+    words: [
+      {
+        term: "although",
+        translation: "хоча / незважаючи на те що",
+        examples: [
+          <span>
+            <strong>Although</strong> it was raining, we went for a walk.
+          </span>,
+          <span>
+            She smiled <strong>although</strong> she was tired.
+          </span>,
+        ],
+      },
+      {
+        term: "to overcome fears",
+        translation: "подолати страхи",
+        examples: [
+          <span>
+            He worked hard <strong>to overcome his fears</strong>.
+          </span>,
+          <span>
+            Traveling helped her <strong>overcome fears</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "an acquaintance",
+        translation: "знайомий",
+        examples: [
+          <span>
+            I met an old <strong>acquaintance</strong> yesterday.
+          </span>,
+          <span>
+            He is not my friend, just an <strong>acquaintance</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to rely on",
+        translation: "покладатися на",
+        examples: [
+          <span>
+            You can always <strong>rely on</strong> me.
+          </span>,
+          <span>
+            Children <strong>rely on</strong> their parents for support.
+          </span>,
+        ],
+      },
+      {
+        term: "to be involved in",
+        translation: "бути залученим до",
+        examples: [
+          <span>
+            She is <strong>involved in</strong> several projects.
+          </span>,
+          <span>
+            He was deeply <strong>involved in</strong> the investigation.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
