@@ -5661,4 +5661,142 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "05.28.2026",
+    words: [
+      {
+        term: "she shares her father's head for figures",
+        translation:
+          "вона успадкувала від батька здібності до математики / цифр",
+        examples: [
+          <span>
+            She <strong>shares her father's head for figures</strong>.
+          </span>,
+          <span>
+            Like her dad, she has a <strong>head for figures</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to spell your name",
+        translation: "назвати своє ім'я по літерах",
+        examples: [
+          <span>
+            Could you <strong>spell your name</strong>, please?
+          </span>,
+          <span>
+            I had to <strong>spell my name</strong> over the phone.
+          </span>,
+        ],
+      },
+      {
+        term: "eventually",
+        translation: "зрештою / врешті-решт",
+        examples: [
+          <span>
+            We <strong>eventually</strong> found the right house.
+          </span>,
+          <span>
+            He <strong>eventually</strong> agreed with us.
+          </span>,
+        ],
+      },
+      {
+        term: "determined",
+        translation: "рішучий / цілеспрямований",
+        examples: [
+          <span>
+            She is <strong>determined</strong> to succeed.
+          </span>,
+          <span>
+            He gave me a <strong>determined</strong> look.
+          </span>,
+        ],
+      },
+      {
+        term: "to have in common with",
+        translation: "мати щось спільне з",
+        examples: [
+          <span>
+            I have a lot <strong>in common with</strong> my brother.
+          </span>,
+          <span>
+            What do you <strong>have in common with</strong> your best friend?
+          </span>,
+        ],
+      },
+      {
+        term: "poor communication",
+        translation: "погана комунікація",
+        examples: [
+          <span>
+            The project failed because of <strong>poor communication</strong>.
+          </span>,
+          <span>
+            <strong>Poor communication</strong> often causes misunderstandings.
+          </span>,
+        ],
+      },
+      {
+        term: "attitude to/towards something",
+        translation: "ставлення до чогось",
+        examples: [
+          <span>
+            His <strong>attitude towards work</strong> is very positive.
+          </span>,
+          <span>
+            We need to change our <strong>attitude to the environment</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "take after",
+        translation: "бути схожим на когось із родичів",
+        examples: [
+          <span>
+            She <strong>takes after</strong> her mother.
+          </span>,
+          <span>
+            Who does your son <strong>take after</strong>?
+          </span>,
+        ],
+      },
+      {
+        term: "appearance",
+        translation: "зовнішність",
+        examples: [
+          <span>
+            Don't judge people by their <strong>appearance</strong>.
+          </span>,
+          <span>
+            His <strong>appearance</strong> has changed a lot.
+          </span>,
+        ],
+      },
+      {
+        term: "to negotiate",
+        translation: "вести переговори",
+        examples: [
+          <span>
+            The companies are trying <strong>to negotiate</strong> a deal.
+          </span>,
+          <span>
+            We need <strong>to negotiate</strong> better terms.
+          </span>,
+        ],
+      },
+      {
+        term: "whereas",
+        translation: "тоді як / у той час як",
+        examples: [
+          <span>
+            He likes coffee, <strong>whereas</strong> I prefer tea.
+          </span>,
+          <span>
+            She is outgoing, <strong>whereas</strong> her sister is quiet.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
