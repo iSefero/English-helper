@@ -5799,4 +5799,746 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "05.30.2026",
+    words: [
+      {
+        term: "quiet",
+        translation: "спокійний / небагатослівний",
+        examples: [
+          <span>
+            She is a <strong>quiet</strong> person.
+          </span>,
+          <span>
+            He remained <strong>quiet</strong> during the meeting.
+          </span>,
+        ],
+      },
+      {
+        term: "serious",
+        translation: "серйозний",
+        examples: [
+          <span>
+            She is very <strong>serious</strong> about her studies.
+          </span>,
+          <span>
+            He gave me a <strong>serious</strong> look.
+          </span>,
+        ],
+      },
+      {
+        term: "emotional",
+        translation: "емоційний",
+        examples: [
+          <span>
+            She gets very <strong>emotional</strong> when talking about her
+            family.
+          </span>,
+          <span>
+            He is an <strong>emotional</strong> person.
+          </span>,
+        ],
+      },
+      {
+        term: "independent",
+        translation: "незалежний",
+        examples: [
+          <span>
+            My daughter is very <strong>independent</strong>.
+          </span>,
+          <span>
+            He became financially <strong>independent</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "curious",
+        translation: "допитливий",
+        examples: [
+          <span>
+            Children are naturally <strong>curious</strong>.
+          </span>,
+          <span>
+            She was <strong>curious</strong> about the new project.
+          </span>,
+        ],
+      },
+      {
+        term: "competitive",
+        translation: "конкурентний / той, хто любить змагатися",
+        examples: [
+          <span>
+            He is very <strong>competitive</strong> in sports.
+          </span>,
+          <span>
+            She has a <strong>competitive</strong> personality.
+          </span>,
+        ],
+      },
+      {
+        term: "talkative",
+        translation: "балакучий",
+        examples: [
+          <span>
+            My nephew is very <strong>talkative</strong>.
+          </span>,
+          <span>
+            She became more <strong>talkative</strong> after a few minutes.
+          </span>,
+        ],
+      },
+      {
+        term: "strict",
+        translation: "суворий",
+        examples: [
+          <span>
+            Our teacher is quite <strong>strict</strong>.
+          </span>,
+          <span>
+            His parents were very <strong>strict</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "energetic",
+        translation: "енергійний",
+        examples: [
+          <span>
+            She is always <strong>energetic</strong> in the morning.
+          </span>,
+          <span>
+            We need an <strong>energetic</strong> leader.
+          </span>,
+        ],
+      },
+      {
+        term: "reserved",
+        translation: "стриманий / замкнутий",
+        examples: [
+          <span>
+            He is a bit <strong>reserved</strong> around strangers.
+          </span>,
+          <span>
+            She seems <strong>reserved</strong>, but she is very kind.
+          </span>,
+        ],
+      },
+      {
+        term: "practical",
+        translation: "практичний",
+        examples: [
+          <span>
+            She always gives <strong>practical</strong> advice.
+          </span>,
+          <span>
+            He is a very <strong>practical</strong> person.
+          </span>,
+        ],
+      },
+      {
+        term: "organized",
+        translation: "організований",
+        examples: [
+          <span>
+            She keeps everything neat and <strong>organized</strong>.
+          </span>,
+          <span>
+            He is one of the most <strong>organized</strong> people I know.
+          </span>,
+        ],
+      },
+      {
+        term: "adventurous",
+        translation: "авантюрний / любить пригоди",
+        examples: [
+          <span>
+            She is <strong>adventurous</strong> and loves traveling.
+          </span>,
+          <span>
+            He has an <strong>adventurous</strong> spirit.
+          </span>,
+        ],
+      },
+      {
+        term: "realistic",
+        translation: "реалістичний",
+        examples: [
+          <span>
+            Let's be <strong>realistic</strong> about the budget.
+          </span>,
+          <span>
+            She has a <strong>realistic</strong> view of the situation.
+          </span>,
+        ],
+      },
+      {
+        term: "traditional",
+        translation: "традиційний",
+        examples: [
+          <span>
+            My grandparents have <strong>traditional</strong> values.
+          </span>,
+          <span>
+            They prefer a <strong>traditional</strong> wedding.
+          </span>,
+        ],
+      },
+    ],
+  },
+  {
+    date: "06.01.2026",
+    words: [
+      {
+        term: "lazy",
+        translation: "ледачий",
+        examples: [
+          <span>
+            He is too <strong>lazy</strong> to clean his room.
+          </span>,
+          <span>
+            Don't be <strong>lazy</strong>; finish your work.
+          </span>,
+        ],
+      },
+      {
+        term: "rude",
+        translation: "грубий",
+        examples: [
+          <span>
+            It was <strong>rude</strong> to interrupt her.
+          </span>,
+          <span>
+            The waiter was surprisingly <strong>rude</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "selfish",
+        translation: "егоїстичний",
+        examples: [
+          <span>
+            It was <strong>selfish</strong> of him not to share.
+          </span>,
+          <span>
+            She can be a bit <strong>selfish</strong> sometimes.
+          </span>,
+        ],
+      },
+      {
+        term: "dishonest",
+        translation: "нечесний",
+        examples: [
+          <span>
+            He was fired for being <strong>dishonest</strong>.
+          </span>,
+          <span>
+            A <strong>dishonest</strong> person cannot be trusted.
+          </span>,
+        ],
+      },
+      {
+        term: "impatient",
+        translation: "нетерплячий",
+        examples: [
+          <span>
+            She became <strong>impatient</strong> while waiting.
+          </span>,
+          <span>
+            Try not to be so <strong>impatient</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "shy",
+        translation: "сором'язливий",
+        examples: [
+          <span>
+            He is too <strong>shy</strong> to speak in public.
+          </span>,
+          <span>
+            She was <strong>shy</strong> when she met new people.
+          </span>,
+        ],
+      },
+      {
+        term: "arrogant",
+        translation: "зарозумілий",
+        examples: [
+          <span>
+            He sounds <strong>arrogant</strong> when he talks.
+          </span>,
+          <span>
+            Nobody likes an <strong>arrogant</strong> person.
+          </span>,
+        ],
+      },
+      {
+        term: "jealous",
+        translation: "ревнивий / заздрісний",
+        examples: [
+          <span>
+            She was <strong>jealous</strong> of her friend's success.
+          </span>,
+          <span>
+            Don't be <strong>jealous</strong> of others.
+          </span>,
+        ],
+      },
+      {
+        term: "bossy",
+        translation: "владний / любить командувати",
+        examples: [
+          <span>
+            My sister can be very <strong>bossy</strong>.
+          </span>,
+          <span>
+            Nobody likes a <strong>bossy</strong> colleague.
+          </span>,
+        ],
+      },
+      {
+        term: "careless",
+        translation: "необережний / недбалий",
+        examples: [
+          <span>
+            He made a <strong>careless</strong> mistake.
+          </span>,
+          <span>
+            Don't be <strong>careless</strong> with your phone.
+          </span>,
+        ],
+      },
+      {
+        term: "moody",
+        translation: "примхливий / з мінливим настроєм",
+        examples: [
+          <span>
+            Teenagers are often <strong>moody</strong>.
+          </span>,
+          <span>
+            She gets <strong>moody</strong> when she's tired.
+          </span>,
+        ],
+      },
+      {
+        term: "stubborn",
+        translation: "впертий",
+        examples: [
+          <span>
+            He is too <strong>stubborn</strong> to admit he was wrong.
+          </span>,
+          <span>
+            My grandfather is very <strong>stubborn</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "pessimistic",
+        translation: "песимістичний",
+        examples: [
+          <span>
+            She is always <strong>pessimistic</strong> about the future.
+          </span>,
+          <span>
+            Try not to be so <strong>pessimistic</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "nervous",
+        translation: "нервовий / схвильований",
+        examples: [
+          <span>
+            I feel <strong>nervous</strong> before exams.
+          </span>,
+          <span>
+            He looked <strong>nervous</strong> during the interview.
+          </span>,
+        ],
+      },
+      {
+        term: "aggressive",
+        translation: "агресивний",
+        examples: [
+          <span>
+            The dog became <strong>aggressive</strong>.
+          </span>,
+          <span>
+            His <strong>aggressive</strong> behavior scared people.
+          </span>,
+        ],
+      },
+      {
+        term: "unfriendly",
+        translation: "недружній",
+        examples: [
+          <span>
+            The receptionist seemed <strong>unfriendly</strong>.
+          </span>,
+          <span>
+            He gave me an <strong>unfriendly</strong> look.
+          </span>,
+        ],
+      },
+      {
+        term: "irresponsible",
+        translation: "безвідповідальний",
+        examples: [
+          <span>
+            It was <strong>irresponsible</strong> to drive so fast.
+          </span>,
+          <span>
+            He is too <strong>irresponsible</strong> for this job.
+          </span>,
+        ],
+      },
+      {
+        term: "greedy",
+        translation: "жадібний",
+        examples: [
+          <span>
+            The king was known for being <strong>greedy</strong>.
+          </span>,
+          <span>
+            Don't be <strong>greedy</strong>; share with others.
+          </span>,
+        ],
+      },
+      {
+        term: "noisy",
+        translation: "галасливий",
+        examples: [
+          <span>
+            The children were very <strong>noisy</strong>.
+          </span>,
+          <span>
+            I can't work in a <strong>noisy</strong> room.
+          </span>,
+        ],
+      },
+      {
+        term: "sensitive",
+        translation: "чутливий",
+        examples: [
+          <span>
+            She is very <strong>sensitive</strong> to criticism.
+          </span>,
+          <span>
+            He is a kind and <strong>sensitive</strong> person.
+          </span>,
+        ],
+      },
+    ],
+  },
+  {
+    date: "06.02.2026",
+    words: [
+      {
+        term: "kind",
+        translation: "добрий",
+        examples: [
+          <span>
+            She is always <strong>kind</strong> to everyone.
+          </span>,
+          <span>
+            It was very <strong>kind</strong> of you to help me.
+          </span>,
+        ],
+      },
+      {
+        term: "friendly",
+        translation: "дружній / привітний",
+        examples: [
+          <span>
+            Our neighbors are very <strong>friendly</strong>.
+          </span>,
+          <span>
+            He gave me a <strong>friendly</strong> smile.
+          </span>,
+        ],
+      },
+      {
+        term: "honest",
+        translation: "чесний",
+        examples: [
+          <span>
+            She is an <strong>honest</strong> person.
+          </span>,
+          <span>
+            Please give me an <strong>honest</strong> answer.
+          </span>,
+        ],
+      },
+      {
+        term: "polite",
+        translation: "ввічливий",
+        examples: [
+          <span>
+            He is always <strong>polite</strong> to customers.
+          </span>,
+          <span>
+            It's <strong>polite</strong> to say "thank you".
+          </span>,
+        ],
+      },
+      {
+        term: "helpful",
+        translation: "корисний / готовий допомогти",
+        examples: [
+          <span>
+            The staff were very <strong>helpful</strong>.
+          </span>,
+          <span>
+            She gave me some <strong>helpful</strong> advice.
+          </span>,
+        ],
+      },
+      {
+        term: "patient",
+        translation: "терплячий",
+        examples: [
+          <span>
+            Good teachers are <strong>patient</strong>.
+          </span>,
+          <span>
+            You need to be <strong>patient</strong> when learning a language.
+          </span>,
+        ],
+      },
+      {
+        term: "hardworking",
+        translation: "працьовитий",
+        examples: [
+          <span>
+            He is a very <strong>hardworking</strong> employee.
+          </span>,
+          <span>
+            My grandmother was extremely <strong>hardworking</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "responsible",
+        translation: "відповідальний",
+        examples: [
+          <span>
+            She is <strong>responsible</strong> for the project.
+          </span>,
+          <span>
+            He is a <strong>responsible</strong> driver.
+          </span>,
+        ],
+      },
+      {
+        term: "generous",
+        translation: "щедрий",
+        examples: [
+          <span>
+            He is very <strong>generous</strong> with his time.
+          </span>,
+          <span>
+            She made a <strong>generous</strong> donation.
+          </span>,
+        ],
+      },
+      {
+        term: "clever",
+        translation: "кмітливий / розумний",
+        examples: [
+          <span>
+            She found a <strong>clever</strong> solution.
+          </span>,
+          <span>
+            He is a very <strong>clever</strong> student.
+          </span>,
+        ],
+      },
+      {
+        term: "confident",
+        translation: "впевнений у собі",
+        examples: [
+          <span>
+            She felt <strong>confident</strong> before the interview.
+          </span>,
+          <span>
+            He is <strong>confident</strong> about his future.
+          </span>,
+        ],
+      },
+      {
+        term: "calm",
+        translation: "спокійний",
+        examples: [
+          <span>
+            Stay <strong>calm</strong> and think carefully.
+          </span>,
+          <span>
+            She remained <strong>calm</strong> during the emergency.
+          </span>,
+        ],
+      },
+      {
+        term: "brave",
+        translation: "сміливий",
+        examples: [
+          <span>
+            The firefighter was very <strong>brave</strong>.
+          </span>,
+          <span>
+            It was <strong>brave</strong> of her to speak up.
+          </span>,
+        ],
+      },
+    ],
+  },
+  {
+    date: "06.03.2026",
+    words: [
+      {
+        term: "creative",
+        translation: "творчий",
+        examples: [
+          <span>
+            She is a very <strong>creative</strong> designer.
+          </span>,
+          <span>
+            We need a <strong>creative</strong> solution to this problem.
+          </span>,
+        ],
+      },
+      {
+        term: "funny",
+        translation: "смішний / кумедний",
+        examples: [
+          <span>
+            He told a <strong>funny</strong> story.
+          </span>,
+          <span>
+            My brother is really <strong>funny</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "caring",
+        translation: "турботливий",
+        examples: [
+          <span>
+            She is a very <strong>caring</strong> mother.
+          </span>,
+          <span>
+            He is always <strong>caring</strong> and supportive.
+          </span>,
+        ],
+      },
+      {
+        term: "loyal",
+        translation: "відданий / вірний",
+        examples: [
+          <span>
+            A dog is a <strong>loyal</strong> companion.
+          </span>,
+          <span>
+            She has always been <strong>loyal</strong> to her friends.
+          </span>,
+        ],
+      },
+      {
+        term: "reliable",
+        translation: "надійний",
+        examples: [
+          <span>
+            He is a very <strong>reliable</strong> colleague.
+          </span>,
+          <span>
+            This car is known for being <strong>reliable</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "optimistic",
+        translation: "оптимістичний",
+        examples: [
+          <span>
+            She is <strong>optimistic</strong> about the future.
+          </span>,
+          <span>
+            Try to stay <strong>optimistic</strong> in difficult times.
+          </span>,
+        ],
+      },
+      {
+        term: "ambitious",
+        translation: "амбітний",
+        examples: [
+          <span>
+            He is an <strong>ambitious</strong> young entrepreneur.
+          </span>,
+          <span>
+            She has <strong>ambitious</strong> career goals.
+          </span>,
+        ],
+      },
+      {
+        term: "thoughtful",
+        translation: "уважний до інших / турботливий",
+        examples: [
+          <span>
+            It was very <strong>thoughtful</strong> of you to remember my
+            birthday.
+          </span>,
+          <span>
+            She is a <strong>thoughtful</strong> friend.
+          </span>,
+        ],
+      },
+      {
+        term: "respectful",
+        translation: "шанобливий / поважний",
+        examples: [
+          <span>
+            The students were <strong>respectful</strong> to their teacher.
+          </span>,
+          <span>
+            Please be <strong>respectful</strong> to others.
+          </span>,
+        ],
+      },
+      {
+        term: "sociable",
+        translation: "товариський",
+        examples: [
+          <span>
+            He is very <strong>sociable</strong> and makes friends easily.
+          </span>,
+          <span>
+            My sister is more <strong>sociable</strong> than I am.
+          </span>,
+        ],
+      },
+      {
+        term: "cheerful",
+        translation: "життєрадісний",
+        examples: [
+          <span>
+            She is always <strong>cheerful</strong> in the morning.
+          </span>,
+          <span>
+            His <strong>cheerful</strong> attitude inspires others.
+          </span>,
+        ],
+      },
+      {
+        term: "easy-going",
+        translation: "легкий у спілкуванні / невимушений",
+        examples: [
+          <span>
+            He is very <strong>easy-going</strong> and rarely gets upset.
+          </span>,
+          <span>
+            I like working with her because she is <strong>easy-going</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
