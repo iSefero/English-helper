@@ -6541,4 +6541,189 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "06.04.2026",
+    words: [
+      {
+        term: "inappropriate",
+        translation: "недоречний / невідповідний",
+        examples: [
+          <span>
+            His comment was <strong>inappropriate</strong>.
+          </span>,
+          <span>
+            That joke is <strong>inappropriate</strong> for children.
+          </span>,
+        ],
+      },
+      {
+        term: "catchy song",
+        translation: "пісня, що легко запам'ятовується",
+        examples: [
+          <span>
+            It's a very <strong>catchy song</strong>.
+          </span>,
+          <span>
+            I can't stop humming that <strong>catchy song</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to tag a friend",
+        translation: "відмітити друга",
+        examples: [
+          <span>
+            Don't forget <strong>to tag a friend</strong> in the comments.
+          </span>,
+          <span>
+            She <strong>tagged her friend</strong> in the photo.
+          </span>,
+        ],
+      },
+      {
+        term: "Virgo",
+        translation: "Діва (знак зодіаку)",
+        examples: [
+          <span>
+            My sister is a <strong>Virgo</strong>.
+          </span>,
+          <span>
+            Are you a <strong>Virgo</strong> or a Leo?
+          </span>,
+        ],
+      },
+      {
+        term: "permission",
+        translation: "дозвіл",
+        examples: [
+          <span>
+            You need <strong>permission</strong> to enter.
+          </span>,
+          <span>
+            I asked for my parents' <strong>permission</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "comment on",
+        translation: "коментувати",
+        examples: [
+          <span>
+            Would you like to <strong>comment on</strong> this issue?
+          </span>,
+          <span>
+            Many people <strong>commented on</strong> her post.
+          </span>,
+        ],
+      },
+      {
+        term: "make fun of somebody",
+        translation: "насміхатися з когось",
+        examples: [
+          <span>
+            Don't <strong>make fun of</strong> other people.
+          </span>,
+          <span>
+            They <strong>made fun of</strong> his accent.
+          </span>,
+        ],
+      },
+      {
+        term: "inspiring quote",
+        translation: "надихаюча цитата",
+        examples: [
+          <span>
+            She shared an <strong>inspiring quote</strong> online.
+          </span>,
+          <span>
+            I start my day with an <strong>inspiring quote</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "never ever",
+        translation: "ніколи в житті / ні за що",
+        examples: [
+          <span>
+            I will <strong>never ever</strong> do that again.
+          </span>,
+          <span>
+            He has <strong>never ever</strong> been late.
+          </span>,
+        ],
+      },
+      {
+        term: "occasionally",
+        translation: "час від часу / іноді",
+        examples: [
+          <span>
+            I <strong>occasionally</strong> go to the cinema.
+          </span>,
+          <span>
+            She <strong>occasionally</strong> works from home.
+          </span>,
+        ],
+      },
+      {
+        term: "to send a friend request",
+        translation: "надіслати запит у друзі",
+        examples: [
+          <span>
+            He decided <strong>to send a friend request</strong>.
+          </span>,
+          <span>
+            I <strong>sent her a friend request</strong> yesterday.
+          </span>,
+        ],
+      },
+      {
+        term: "to pretend",
+        translation: "вдавати / прикидатися",
+        examples: [
+          <span>
+            He <strong>pretended</strong> to be asleep.
+          </span>,
+          <span>
+            Don't <strong>pretend</strong> that nothing happened.
+          </span>,
+        ],
+      },
+      {
+        term: "to accept the request",
+        translation: "прийняти запит",
+        examples: [
+          <span>
+            She <strong>accepted the request</strong> immediately.
+          </span>,
+          <span>
+            Did you <strong>accept his friend request</strong>?
+          </span>,
+        ],
+      },
+      {
+        term: "arrange to meet",
+        translation: "домовитися про зустріч",
+        examples: [
+          <span>
+            We <strong>arranged to meet</strong> after work.
+          </span>,
+          <span>
+            Let's <strong>arrange to meet</strong> next week.
+          </span>,
+        ],
+      },
+      {
+        term: "addiction",
+        translation: "залежність",
+        examples: [
+          <span>
+            Social media <strong>addiction</strong> is a growing problem.
+          </span>,
+          <span>
+            He sought help for his <strong>addiction</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
