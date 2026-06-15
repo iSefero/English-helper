@@ -6726,4 +6726,153 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "06.11.2026",
+    words: [
+      {
+        term: "wet",
+        translation: "мокрий",
+        examples: [
+          <span>
+            My clothes are <strong>wet</strong> after the rain.
+          </span>,
+          <span>
+            Be careful, the floor is <strong>wet</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to get one's hands wet",
+        translation: "намочити руки",
+        examples: [
+          <span>
+            I <strong>got my hands wet</strong> while washing vegetables.
+          </span>,
+          <span>
+            She <strong>got her hands wet</strong> cleaning the windows.
+          </span>,
+        ],
+      },
+      {
+        term: "to mention",
+        translation: "згадувати / згадати",
+        examples: [
+          <span>
+            She didn't <strong>mention</strong> the problem.
+          </span>,
+          <span>
+            Did he <strong>mention</strong> my name?
+          </span>,
+        ],
+      },
+      {
+        term: "to strike a chord with me",
+        translation: "зачепити мене / відгукнутися в мені",
+        examples: [
+          <span>
+            That story really <strong>struck a chord with me</strong>.
+          </span>,
+          <span>
+            His speech <strong>struck a chord with me</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to remind somebody of something",
+        translation: "нагадувати комусь про щось",
+        examples: [
+          <span>
+            This song <strong>reminds me of</strong> my childhood.
+          </span>,
+          <span>
+            You <strong>remind me of</strong> my brother.
+          </span>,
+        ],
+      },
+      {
+        term: "memories",
+        translation: "спогади",
+        examples: [
+          <span>
+            These photos bring back happy <strong>memories</strong>.
+          </span>,
+          <span>
+            I have many good <strong>memories</strong> of school.
+          </span>,
+        ],
+      },
+      {
+        term: "to recall",
+        translation: "згадувати",
+        examples: [
+          <span>
+            I can't <strong>recall</strong> his name.
+          </span>,
+          <span>
+            She clearly <strong>recalled</strong> the event.
+          </span>,
+        ],
+      },
+      {
+        term: "to realize",
+        translation: "усвідомлювати",
+        examples: [
+          <span>
+            I suddenly <strong>realized</strong> my mistake.
+          </span>,
+          <span>
+            He didn't <strong>realize</strong> how important it was.
+          </span>,
+        ],
+      },
+      {
+        term: "to pay attention",
+        translation: "звертати увагу",
+        examples: [
+          <span>
+            Please <strong>pay attention</strong> to the instructions.
+          </span>,
+          <span>
+            Nobody was <strong>paying attention</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to notice",
+        translation: "помічати",
+        examples: [
+          <span>
+            Did you <strong>notice</strong> anything unusual?
+          </span>,
+          <span>
+            I didn't <strong>notice</strong> the typo.
+          </span>,
+        ],
+      },
+      {
+        term: "to have an impact on",
+        translation: "впливати на",
+        examples: [
+          <span>
+            Sleep has a big <strong>impact on</strong> your health.
+          </span>,
+          <span>
+            Technology <strong>has an impact on</strong> our lives.
+          </span>,
+        ],
+      },
+      {
+        term: "meaningful",
+        translation: "значущий / змістовний",
+        examples: [
+          <span>
+            We had a <strong>meaningful</strong> conversation.
+          </span>,
+          <span>
+            She is looking for a <strong>meaningful</strong> job.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
