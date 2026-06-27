@@ -6875,4 +6875,156 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "06.16.2026",
+    words: [
+      {
+        term: "vast majority",
+        translation: "переважна більшість",
+        examples: [
+          <span>
+            The <strong>vast majority</strong> of people agreed with the
+            decision.
+          </span>,
+          <span>
+            The <strong>vast majority</strong> of students passed the exam.
+          </span>,
+        ],
+      },
+      {
+        term: "is well known for",
+        translation: "відомий завдяки / славиться",
+        examples: [
+          <span>
+            Italy <strong>is well known for</strong> its food.
+          </span>,
+          <span>
+            This city <strong>is well known for</strong> its beautiful beaches.
+          </span>,
+        ],
+      },
+      {
+        term: "to be born",
+        translation: "народитися",
+        examples: [
+          <span>
+            I <strong>was born</strong> in Ukraine.
+          </span>,
+          <span>
+            She <strong>was born</strong> in 1998.
+          </span>,
+        ],
+      },
+      {
+        term: "embankment",
+        translation: "набережна",
+        examples: [
+          <span>
+            We walked along the <strong>embankment</strong> in the evening.
+          </span>,
+          <span>
+            There are many cafés on the <strong>embankment</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "waterfront",
+        translation: "набережна / прибережна зона",
+        examples: [
+          <span>
+            We walked along the <strong>waterfront</strong> at sunset.
+          </span>,
+          <span>
+            There are many restaurants on the <strong>waterfront</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "tastes differ",
+        translation: "про смаки не сперечаються",
+        examples: [
+          <span>
+            I don't like that movie, but <strong>tastes differ</strong>.
+          </span>,
+          <span>
+            <strong>Tastes differ</strong>, so everyone chooses what they like.
+          </span>,
+        ],
+      },
+      {
+        term: "whereabouts",
+        translation: "місцезнаходження / місце перебування",
+        examples: [
+          <span>
+            Do you know his <strong>whereabouts</strong>?
+          </span>,
+          <span>
+            The police are trying to find her <strong>whereabouts</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "peninsula",
+        translation: "півострів",
+        examples: [
+          <span>
+            Crimea is a <strong>peninsula</strong>.
+          </span>,
+          <span>
+            They spent their vacation on a beautiful <strong>peninsula</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to be located",
+        translation: "бути розташованим",
+        examples: [
+          <span>
+            The museum <strong>is located</strong> near the city center.
+          </span>,
+          <span>
+            Our hotel <strong>is located</strong> by the sea.
+          </span>,
+        ],
+      },
+      {
+        term: "landmark",
+        translation: "визначна пам'ятка",
+        examples: [
+          <span>
+            The Eiffel Tower is a famous <strong>landmark</strong>.
+          </span>,
+          <span>
+            We visited several local <strong>landmarks</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to attract tourists",
+        translation: "приваблювати туристів",
+        examples: [
+          <span>
+            The castle <strong>attracts tourists</strong> from all over the
+            world.
+          </span>,
+          <span>
+            Beautiful beaches <strong>attract many tourists</strong> every
+            summer.
+          </span>,
+        ],
+      },
+      {
+        term: "scenery",
+        translation: "краєвид / пейзаж",
+        examples: [
+          <span>
+            The mountain <strong>scenery</strong> was breathtaking.
+          </span>,
+          <span>
+            We enjoyed the beautiful <strong>scenery</strong> during the trip.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
