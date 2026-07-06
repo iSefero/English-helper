@@ -7027,4 +7027,153 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "06.30.2026",
+    words: [
+      {
+        term: "to be good at something",
+        translation: "бути хорошим у чомусь",
+        examples: [
+          <span>
+            She is <strong>good at</strong> math.
+          </span>,
+          <span>
+            I'm not very <strong>good at</strong> cooking.
+          </span>,
+        ],
+      },
+      {
+        term: "valley",
+        translation: "долина",
+        examples: [
+          <span>
+            We walked through a beautiful <strong>valley</strong>.
+          </span>,
+          <span>
+            The village is located in a <strong>valley</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "tiny",
+        translation: "крихітний / дуже маленький",
+        examples: [
+          <span>
+            They live in a <strong>tiny</strong> house.
+          </span>,
+          <span>
+            I found a <strong>tiny</strong> mistake in the report.
+          </span>,
+        ],
+      },
+      {
+        term: "to pollute",
+        translation: "забруднювати",
+        examples: [
+          <span>
+            Factories <strong>pollute</strong> the air.
+          </span>,
+          <span>
+            We should stop <strong>polluting</strong> rivers.
+          </span>,
+        ],
+      },
+      {
+        term: "pollution",
+        translation: "забруднення",
+        examples: [
+          <span>
+            Air <strong>pollution</strong> is a serious problem.
+          </span>,
+          <span>
+            The city is trying to reduce <strong>pollution</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "rural area",
+        translation: "сільська місцевість",
+        examples: [
+          <span>
+            She grew up in a <strong>rural area</strong>.
+          </span>,
+          <span>
+            Life in a <strong>rural area</strong> is usually quieter.
+          </span>,
+        ],
+      },
+      {
+        term: "agriculture",
+        translation: "сільське господарство",
+        examples: [
+          <span>
+            <strong>Agriculture</strong> is important for the country's economy.
+          </span>,
+          <span>
+            Many people in the region work in <strong>agriculture</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "farmland",
+        translation: "сільськогосподарські угіддя / орні землі",
+        examples: [
+          <span>
+            The road passes through beautiful <strong>farmland</strong>.
+          </span>,
+          <span>
+            Much of the area is used as <strong>farmland</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "environment",
+        translation: "довкілля / навколишнє середовище",
+        examples: [
+          <span>
+            We should protect the <strong>environment</strong>.
+          </span>,
+          <span>
+            Recycling helps the <strong>environment</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to protect",
+        translation: "захищати",
+        examples: [
+          <span>
+            We must <strong>protect</strong> nature.
+          </span>,
+          <span>
+            Sunscreen helps <strong>protect</strong> your skin.
+          </span>,
+        ],
+      },
+      {
+        term: "to recycle",
+        translation: "переробляти (відходи)",
+        examples: [
+          <span>
+            We <strong>recycle</strong> paper and plastic at home.
+          </span>,
+          <span>
+            Many countries encourage people <strong>to recycle</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "nature",
+        translation: "природа",
+        examples: [
+          <span>
+            I love spending time in <strong>nature</strong>.
+          </span>,
+          <span>
+            We should respect <strong>nature</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
