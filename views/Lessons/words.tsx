@@ -7176,4 +7176,306 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "07.07.2026",
+    words: [
+      {
+        term: "to touch grass",
+        translation: "відірватися від інтернету / вийти в реальне життя",
+        examples: [
+          <span>
+            You should <strong>touch grass</strong> instead of arguing online.
+          </span>,
+          <span>
+            Go outside and <strong>touch some grass</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to treat somebody with respect",
+        translation: "ставитися до когось з повагою",
+        examples: [
+          <span>
+            Always <strong>treat people with respect</strong>.
+          </span>,
+          <span>
+            Children should <strong>treat their teachers with respect</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "overseas / abroad",
+        translation: "за кордоном",
+        examples: [
+          <span>
+            She studied <strong>abroad</strong> for a year.
+          </span>,
+          <span>
+            He works <strong>overseas</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to get a senior job",
+        translation: "отримати старшу / керівну посаду",
+        examples: [
+          <span>
+            She hopes <strong>to get a senior job</strong> next year.
+          </span>,
+          <span>
+            He finally <strong>got a senior job</strong> at the company.
+          </span>,
+        ],
+      },
+      {
+        term: "keep in touch",
+        translation: "залишатися на зв'язку",
+        examples: [
+          <span>
+            Let's <strong>keep in touch</strong>.
+          </span>,
+          <span>
+            We still <strong>keep in touch</strong> after college.
+          </span>,
+        ],
+      },
+      {
+        term: "circumstances",
+        translation: "обставини",
+        examples: [
+          <span>
+            Under the <strong>circumstances</strong>, you made the right
+            decision.
+          </span>,
+          <span>
+            Sometimes <strong>circumstances</strong> are beyond our control.
+          </span>,
+        ],
+      },
+      {
+        term: "look after parents",
+        translation: "доглядати за батьками",
+        examples: [
+          <span>
+            He moved back home to <strong>look after his parents</strong>.
+          </span>,
+          <span>
+            It's important to <strong>look after your parents</strong> when they
+            get older.
+          </span>,
+        ],
+      },
+      {
+        term: "to be a burden to somebody",
+        translation: "бути тягарем для когось",
+        examples: [
+          <span>
+            She doesn't want <strong>to be a burden to</strong> her children.
+          </span>,
+          <span>
+            He felt like <strong>a burden to</strong> his family.
+          </span>,
+        ],
+      },
+      {
+        term: "to settle down",
+        translation: "осісти / влаштуватися в житті",
+        examples: [
+          <span>
+            They want <strong>to settle down</strong> in a small town.
+          </span>,
+          <span>
+            He isn't ready <strong>to settle down</strong> yet.
+          </span>,
+        ],
+      },
+      {
+        term: "career opportunities",
+        translation: "кар'єрні можливості",
+        examples: [
+          <span>
+            Big cities offer more <strong>career opportunities</strong>.
+          </span>,
+          <span>
+            She moved abroad for better <strong>career opportunities</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "homesick",
+        translation: "сумуючий за домом",
+        examples: [
+          <span>
+            I felt <strong>homesick</strong> during my first month abroad.
+          </span>,
+          <span>
+            Many students become <strong>homesick</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to support somebody",
+        translation: "підтримувати когось",
+        examples: [
+          <span>
+            My parents always <strong>support</strong> me.
+          </span>,
+          <span>
+            Friends should <strong>support</strong> each other.
+          </span>,
+        ],
+      },
+    ],
+  },
+  {
+    date: "07.09.2026",
+    words: [
+      {
+        term: "beat yourself up",
+        translation: "картати себе / надто сильно звинувачувати себе",
+        examples: [
+          <span>
+            Don't <strong>beat yourself up</strong> over one mistake.
+          </span>,
+          <span>
+            She kept <strong>beating herself up</strong> after the interview.
+          </span>,
+        ],
+      },
+      {
+        term: "blame yourself",
+        translation: "звинувачувати себе",
+        examples: [
+          <span>
+            Don't <strong>blame yourself</strong> for everything.
+          </span>,
+          <span>
+            He <strong>blamed himself</strong> for the accident.
+          </span>,
+        ],
+      },
+      {
+        term: "regardless of something",
+        translation: "незалежно від чогось",
+        examples: [
+          <span>
+            We will continue <strong>regardless of</strong> the weather.
+          </span>,
+          <span>
+            Everyone is welcome, <strong>regardless of</strong> age.
+          </span>,
+        ],
+      },
+      {
+        term: "to contribute to",
+        translation: "робити внесок у / сприяти",
+        examples: [
+          <span>
+            Exercise <strong>contributes to</strong> good health.
+          </span>,
+          <span>
+            Everyone should <strong>contribute to</strong> the project.
+          </span>,
+        ],
+      },
+      {
+        term: "to rely on somebody",
+        translation: "покладатися на когось",
+        examples: [
+          <span>
+            You can always <strong>rely on</strong> me.
+          </span>,
+          <span>
+            She <strong>relies on</strong> her friends for support.
+          </span>,
+        ],
+      },
+      {
+        term: "compulsory service",
+        translation: "обов'язкова служба",
+        examples: [
+          <span>
+            Some countries still have <strong>compulsory service</strong>.
+          </span>,
+          <span>
+            He completed his <strong>compulsory service</strong> at the age of
+            20.
+          </span>,
+        ],
+      },
+      {
+        term: "to face a dilemma",
+        translation: "зіткнутися з дилемою",
+        examples: [
+          <span>
+            She had <strong>to face a difficult dilemma</strong>.
+          </span>,
+          <span>
+            Many graduates <strong>face the dilemma</strong> of staying or
+            moving abroad.
+          </span>,
+        ],
+      },
+      {
+        term: "to give somebody a lift",
+        translation: "підвезти когось",
+        examples: [
+          <span>
+            Can you <strong>give me a lift</strong> home?
+          </span>,
+          <span>
+            She <strong>gave her colleague a lift</strong> to work.
+          </span>,
+        ],
+      },
+      {
+        term: "to make a decision",
+        translation: "прийняти рішення",
+        examples: [
+          <span>
+            It's time <strong>to make a decision</strong>.
+          </span>,
+          <span>
+            She finally <strong>made the decision</strong> to move abroad.
+          </span>,
+        ],
+      },
+      {
+        term: "to take responsibility for",
+        translation: "брати відповідальність за",
+        examples: [
+          <span>
+            He <strong>took responsibility for</strong> his mistake.
+          </span>,
+          <span>
+            We should <strong>take responsibility for</strong> our actions.
+          </span>,
+        ],
+      },
+      {
+        term: "to make an effort",
+        translation: "докладати зусиль",
+        examples: [
+          <span>
+            You need <strong>to make an effort</strong> to improve.
+          </span>,
+          <span>
+            She always <strong>makes an effort</strong> to help others.
+          </span>,
+        ],
+      },
+      {
+        term: "to overcome difficulties",
+        translation: "долати труднощі",
+        examples: [
+          <span>
+            We can <strong>overcome difficulties</strong> together.
+          </span>,
+          <span>
+            He <strong>overcame many difficulties</strong> in his life.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
