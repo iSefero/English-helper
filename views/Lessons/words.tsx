@@ -7478,4 +7478,131 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "07.14.2026",
+    words: [
+      {
+        term: "obstacle",
+        translation: "перешкода",
+        examples: [
+          <span>
+            Lack of experience can be an <strong>obstacle</strong>.
+          </span>,
+          <span>
+            We overcame every <strong>obstacle</strong> together.
+          </span>,
+        ],
+      },
+      {
+        term: "to be hard on somebody",
+        translation: "бути занадто суворим до когось (часто до себе)",
+        examples: [
+          <span>
+            Don't <strong>be so hard on yourself</strong>.
+          </span>,
+          <span>
+            His coach was <strong>hard on</strong> him, but it helped him
+            improve.
+          </span>,
+        ],
+      },
+      {
+        term: "to have an argument / to have a fight",
+        translation: "посваритися",
+        examples: [
+          <span>
+            We <strong>had an argument</strong> about money.
+          </span>,
+          <span>
+            They <strong>had a fight</strong> and stopped talking.
+          </span>,
+        ],
+      },
+      {
+        term: "to argue with",
+        translation: "сперечатися з кимось",
+        examples: [
+          <span>
+            Don't <strong>argue with</strong> your parents.
+          </span>,
+          <span>
+            She often <strong>argues with</strong> her brother.
+          </span>,
+        ],
+      },
+      {
+        term: "to make up with somebody",
+        translation: "помиритися з кимось",
+        examples: [
+          <span>
+            They finally <strong>made up</strong> after the argument.
+          </span>,
+          <span>
+            You should <strong>make up with</strong> your friend.
+          </span>,
+        ],
+      },
+      {
+        term: "to forgive somebody",
+        translation: "пробачити когось",
+        examples: [
+          <span>
+            It wasn't easy to <strong>forgive</strong> him.
+          </span>,
+          <span>
+            She <strong>forgave</strong> her sister for the mistake.
+          </span>,
+        ],
+      },
+      {
+        term: "to apologize",
+        translation: "вибачатися",
+        examples: [
+          <span>
+            He <strong>apologized</strong> for being late.
+          </span>,
+          <span>
+            You should <strong>apologize</strong> if you were wrong.
+          </span>,
+        ],
+      },
+      {
+        term: "to misunderstand somebody",
+        translation: "неправильно зрозуміти когось",
+        examples: [
+          <span>
+            I think you <strong>misunderstood</strong> me.
+          </span>,
+          <span>
+            We <strong>misunderstood</strong> each other.
+          </span>,
+        ],
+      },
+      {
+        term: "to solve a problem",
+        translation: "вирішити проблему",
+        examples: [
+          <span>
+            We need <strong>to solve this problem</strong> together.
+          </span>,
+          <span>
+            She quickly <strong>solved the problem</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to find common ground",
+        translation: "знайти спільну мову / знайти компроміс",
+        examples: [
+          <span>
+            We finally <strong>found common ground</strong>.
+          </span>,
+          <span>
+            It's important <strong>to find common ground</strong> in a
+            relationship.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
