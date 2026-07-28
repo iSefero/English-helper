@@ -7605,4 +7605,467 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "07.23.2026",
+    words: [
+      {
+        term: "confident",
+        translation: "впевнений у собі",
+        examples: [
+          <span>
+            She is <strong>confident</strong> about her decision.
+          </span>,
+          <span>
+            You sound much more <strong>confident</strong> now.
+          </span>,
+        ],
+      },
+      {
+        term: "confidence",
+        translation: "впевненість (у собі)",
+        examples: [
+          <span>
+            Speaking English every day builds <strong>confidence</strong>.
+          </span>,
+          <span>
+            He answered every question with <strong>confidence</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to be all smiles",
+        translation: "сяяти від щастя / весь час посміхатися",
+        examples: [
+          <span>
+            She was <strong>all smiles</strong> after getting the job.
+          </span>,
+          <span>
+            The kids were <strong>all smiles</strong> on Christmas morning.
+          </span>,
+        ],
+      },
+      {
+        term: "to shed a tear",
+        translation: "пролити сльозу",
+        examples: [
+          <span>
+            I <strong>shed a tear</strong> at the end of the movie.
+          </span>,
+          <span>
+            He couldn't help but <strong>shed a tear</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "armor",
+        translation: "броня / обладунок; емоційний захист",
+        examples: [
+          <span>
+            The knight wore heavy <strong>armor</strong>.
+          </span>,
+          <span>
+            He built emotional <strong>armor</strong> after years of
+            disappointment.
+          </span>,
+        ],
+      },
+      {
+        term: "invincible",
+        translation: "непереможний / нездоланний",
+        examples: [
+          <span>
+            After the victory, they felt <strong>invincible</strong>.
+          </span>,
+          <span>
+            Nobody is <strong>invincible</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to let your feelings go",
+        translation: "дати волю своїм почуттям",
+        examples: [
+          <span>
+            Sometimes you need <strong>to let your feelings go</strong>.
+          </span>,
+          <span>
+            Don't be afraid <strong>to let your feelings go</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to pretend",
+        translation: "прикидатися / вдавати",
+        examples: [
+          <span>
+            He <strong>pretended</strong> to be asleep.
+          </span>,
+          <span>
+            Don't <strong>pretend</strong> that everything is fine.
+          </span>,
+        ],
+      },
+      {
+        term: "to accumulate energy / experience",
+        translation: "накопичувати енергію / досвід",
+        examples: [
+          <span>
+            I need a weekend to <strong>accumulate some energy</strong>.
+          </span>,
+          <span>
+            You <strong>accumulate experience</strong> with every project.
+          </span>,
+        ],
+      },
+      {
+        term: "to open up to somebody",
+        translation: "відкритися комусь",
+        examples: [
+          <span>
+            It took him years <strong>to open up to</strong> his friends.
+          </span>,
+          <span>
+            She finally <strong>opened up to</strong> her parents.
+          </span>,
+        ],
+      },
+      {
+        term: "to hide your emotions",
+        translation: "приховувати свої емоції",
+        examples: [
+          <span>
+            He is good at <strong>hiding his emotions</strong>.
+          </span>,
+          <span>
+            You don't always have <strong>to hide your emotions</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to express your feelings",
+        translation: "виражати свої почуття",
+        examples: [
+          <span>
+            It's important <strong>to express your feelings</strong>.
+          </span>,
+          <span>
+            Some people find it difficult{" "}
+            <strong>to express their feelings</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
+  {
+    date: "07.21.2026",
+    words: [
+      {
+        term: "to fulfill a need",
+        translation: "задовольняти потребу",
+        examples: [
+          <span>
+            This product <strong>fulfills a need</strong> for many people.
+          </span>,
+          <span>
+            Exercise <strong>fulfills our need</strong> for movement.
+          </span>,
+        ],
+      },
+      {
+        term: "to change",
+        translation: "змінювати(ся)",
+        examples: [
+          <span>
+            People <strong>change</strong> over time.
+          </span>,
+          <span>
+            Nothing will <strong>change</strong> unless you take action.
+          </span>,
+        ],
+      },
+      {
+        term: "to require",
+        translation: "вимагати / потребувати",
+        examples: [
+          <span>
+            This job <strong>requires</strong> experience.
+          </span>,
+          <span>
+            Learning a language <strong>requires</strong> patience.
+          </span>,
+        ],
+      },
+      {
+        term: "currency",
+        translation: "валюта",
+        examples: [
+          <span>
+            The national <strong>currency</strong> of Ukraine is the hryvnia.
+          </span>,
+          <span>
+            You can exchange foreign <strong>currency</strong> at the bank.
+          </span>,
+        ],
+      },
+      {
+        term: "wise",
+        translation: "мудрий",
+        examples: [
+          <span>
+            It was a <strong>wise</strong> decision.
+          </span>,
+          <span>
+            My grandfather always gives <strong>wise</strong> advice.
+          </span>,
+        ],
+      },
+      {
+        term: "to feel drained",
+        translation: "почуватися виснаженим",
+        examples: [
+          <span>
+            I <strong>feel drained</strong> after a long day at work.
+          </span>,
+          <span>
+            She <strong>felt drained</strong> after the meeting.
+          </span>,
+        ],
+      },
+      {
+        term: "to have no energy left",
+        translation: "не мати сил",
+        examples: [
+          <span>
+            After the hike, I <strong>had no energy left</strong>.
+          </span>,
+          <span>
+            By the evening, he <strong>had no energy left</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to boost your energy",
+        translation: "підвищити рівень енергії",
+        examples: [
+          <span>
+            A short walk can <strong>boost your energy</strong>.
+          </span>,
+          <span>
+            Healthy food helps <strong>boost your energy</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "take care of = look after",
+        translation: "піклуватися про",
+        examples: [
+          <span>
+            Who will <strong>take care of</strong> the dog?
+          </span>,
+          <span>
+            She <strong>looks after</strong> her grandmother.
+          </span>,
+        ],
+      },
+      {
+        term: "to turn ideas into action",
+        translation: "втілювати ідеї в життя",
+        examples: [
+          <span>
+            It's time <strong>to turn your ideas into action</strong>.
+          </span>,
+          <span>
+            Successful people <strong>turn ideas into action</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to stay focused",
+        translation: "залишатися зосередженим",
+        examples: [
+          <span>
+            Try <strong>to stay focused</strong> on your goal.
+          </span>,
+          <span>
+            It's difficult <strong>to stay focused</strong> with so many
+            distractions.
+          </span>,
+        ],
+      },
+      {
+        term: "one step at a time",
+        translation: "крок за кроком",
+        examples: [
+          <span>
+            Don't rush. Take it <strong>one step at a time</strong>.
+          </span>,
+          <span>
+            You'll solve the problem <strong>one step at a time</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "energy sources",
+        translation: "джерела енергії",
+        examples: [
+          <span>
+            Solar and wind are renewable <strong>energy sources</strong>.
+          </span>,
+          <span>
+            We should invest in clean <strong>energy sources</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to waste energy",
+        translation: "марнувати енергію",
+        examples: [
+          <span>
+            Don't <strong>waste your energy</strong> on small problems.
+          </span>,
+          <span>
+            He <strong>wastes a lot of energy</strong> worrying.
+          </span>,
+        ],
+      },
+      {
+        term: "a waste of energy",
+        translation: "марна трата енергії",
+        examples: [
+          <span>
+            Arguing with him is <strong>a waste of energy</strong>.
+          </span>,
+          <span>
+            It's <strong>a waste of energy</strong> to complain without acting.
+          </span>,
+        ],
+      },
+    ],
+  },
+  {
+    date: "07.17.2026",
+    words: [
+      {
+        term: "to overcome obstacles",
+        translation: "долати перешкоди",
+        examples: [
+          <span>
+            We can <strong>overcome obstacles</strong> if we work together.
+          </span>,
+          <span>
+            She has <strong>overcome many obstacles</strong> in her life.
+          </span>,
+        ],
+      },
+      {
+        term: "circumstances",
+        translation: "обставини",
+        examples: [
+          <span>
+            Under these <strong>circumstances</strong>, we had no choice.
+          </span>,
+          <span>
+            Sometimes <strong>circumstances</strong> change unexpectedly.
+          </span>,
+        ],
+      },
+      {
+        term: "consequences",
+        translation: "наслідки",
+        examples: [
+          <span>
+            Every decision has <strong>consequences</strong>.
+          </span>,
+          <span>
+            He didn't think about the <strong>consequences</strong> of his
+            actions.
+          </span>,
+        ],
+      },
+      {
+        term: "to ask for permission",
+        translation: "просити дозволу",
+        examples: [
+          <span>
+            You should <strong>ask for permission</strong> before entering.
+          </span>,
+          <span>
+            I forgot <strong>to ask for permission</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "a response",
+        translation: "відповідь / реакція",
+        examples: [
+          <span>
+            I'm still waiting for a <strong>response</strong>.
+          </span>,
+          <span>
+            His <strong>response</strong> surprised everyone.
+          </span>,
+        ],
+      },
+      {
+        term: "to respond",
+        translation: "відповідати / реагувати",
+        examples: [
+          <span>
+            Please <strong>respond</strong> as soon as possible.
+          </span>,
+          <span>
+            She didn't <strong>respond</strong> to my message.
+          </span>,
+        ],
+      },
+      {
+        term: "to deal with",
+        translation: "мати справу з / справлятися з",
+        examples: [
+          <span>
+            We need <strong>to deal with</strong> this problem immediately.
+          </span>,
+          <span>
+            He knows how <strong>to deal with</strong> difficult people.
+          </span>,
+        ],
+      },
+      {
+        term: "to make a mistake",
+        translation: "зробити помилку",
+        examples: [
+          <span>
+            Everyone <strong>makes mistakes</strong>.
+          </span>,
+          <span>
+            I <strong>made a mistake</strong> in the report.
+          </span>,
+        ],
+      },
+      {
+        term: "to learn from mistakes",
+        translation: "вчитися на помилках",
+        examples: [
+          <span>
+            The important thing is <strong>to learn from your mistakes</strong>.
+          </span>,
+          <span>
+            Successful people <strong>learn from their mistakes</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to face challenges",
+        translation: "стикатися з викликами",
+        examples: [
+          <span>
+            We all <strong>face challenges</strong> in life.
+          </span>,
+          <span>
+            She isn't afraid <strong>to face new challenges</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
