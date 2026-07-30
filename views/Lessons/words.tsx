@@ -8068,4 +8068,153 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "07.29.2026",
+    words: [
+      {
+        term: "to break down",
+        translation: "ламатися; зламатися; втрачати самовладання",
+        examples: [
+          <span>
+            My car <strong>broke down</strong> on the way to work.
+          </span>,
+          <span>
+            She <strong>broke down</strong> in tears after hearing the news.
+          </span>,
+        ],
+      },
+      {
+        term: "to be broken down",
+        translation: "бути зламаним / несправним",
+        examples: [
+          <span>
+            The bus <strong>is broken down</strong>, so we'll have to walk.
+          </span>,
+          <span>
+            My laptop <strong>has been broken down</strong> for two days.
+          </span>,
+        ],
+      },
+      {
+        term: "to admire",
+        translation: "захоплюватися; милуватися",
+        examples: [
+          <span>
+            I really <strong>admire</strong> her determination.
+          </span>,
+          <span>
+            We stopped to <strong>admire</strong> the beautiful view.
+          </span>,
+        ],
+      },
+      {
+        term: "summit",
+        translation: "вершина; саміт",
+        examples: [
+          <span>
+            They finally reached the <strong>summit</strong> of the mountain.
+          </span>,
+          <span>
+            World leaders met at the climate <strong>summit</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "peak",
+        translation: "пік; вершина",
+        examples: [
+          <span>
+            We climbed to the highest <strong>peak</strong> in the region.
+          </span>,
+          <span>
+            Electricity demand reaches its <strong>peak</strong> in the evening.
+          </span>,
+        ],
+      },
+      {
+        term: "help yourself to",
+        translation: "пригощайся / бери собі (щось)",
+        examples: [
+          <span>
+            Please <strong>help yourself to</strong> some cake.
+          </span>,
+          <span>
+            Feel free to <strong>help yourself to</strong> coffee.
+          </span>,
+        ],
+      },
+      {
+        term: "to reach the summit",
+        translation: "досягти вершини",
+        examples: [
+          <span>
+            It took us five hours <strong>to reach the summit</strong>.
+          </span>,
+          <span>
+            They were exhausted when they <strong>reached the summit</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "at the peak of",
+        translation: "на піку чогось",
+        examples: [
+          <span>
+            She was <strong>at the peak of</strong> her career.
+          </span>,
+          <span>
+            Sales are <strong>at their peak</strong> in December.
+          </span>,
+        ],
+      },
+      {
+        term: "to look up to somebody",
+        translation: "рівнятися на когось; поважати когось",
+        examples: [
+          <span>
+            I've always <strong>looked up to</strong> my older brother.
+          </span>,
+          <span>
+            Many young athletes <strong>look up to</strong> him.
+          </span>,
+        ],
+      },
+      {
+        term: "to overcome difficulties",
+        translation: "долати труднощі",
+        examples: [
+          <span>
+            We can <strong>overcome difficulties</strong> together.
+          </span>,
+          <span>
+            She <strong>overcame many difficulties</strong> to achieve her goal.
+          </span>,
+        ],
+      },
+      {
+        term: "to give somebody a hand",
+        translation: "допомогти комусь",
+        examples: [
+          <span>
+            Could you <strong>give me a hand</strong> with these boxes?
+          </span>,
+          <span>
+            My neighbor <strong>gave me a hand</strong> fixing the fence.
+          </span>,
+        ],
+      },
+      {
+        term: "to achieve a goal",
+        translation: "досягти мети",
+        examples: [
+          <span>
+            Hard work helps you <strong>achieve your goals</strong>.
+          </span>,
+          <span>
+            She finally <strong>achieved her goal</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
