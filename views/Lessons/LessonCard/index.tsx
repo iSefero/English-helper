@@ -6,13 +6,15 @@ import {
 } from "@/components/ui/accordion";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { lessons } from "../words";
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { Button } from "@/components/ui/button";
 import LessonWords from "../LessonWords";
 import { useBreakpoint } from "@/hooks/useBreakpoint";
 import MobileLessonWords from "../MobileLessonWords";
 import { FontSize } from "@/types/common";
 import { memo } from "react";
+import { PracticeDialog } from "../PracticeDialog";
+import { toPracticeDeck } from "../practice";
 
 function LessonCard({
   lesson,
@@ -24,6 +26,8 @@ function LessonCard({
   const [showOption, setShowOption] = useState<"term" | "translation" | "all">(
     "all",
   );
+  const [practiceOpen, setPracticeOpen] = useState(false);
+  const practiceItems = useMemo(() => toPracticeDeck(lesson), [lesson]);
   const breakpoint = useBreakpoint();
 
   const date = new Date(lesson.date);
@@ -57,8 +61,14 @@ function LessonCard({
 
   return (
     <Card key={lesson.date} className="w-full gap-8">
-      <CardHeader>
-        <CardTitle className="flex items-center justify-between">
+      <PracticeDialog
+        open={practiceOpen}
+        onOpenChange={setPracticeOpen}
+        items={practiceItems}
+        title={`Practice · ${formattedDate}`}
+      />
+      <CardHeader className="gap-4">
+        <CardTitle className="flex items-center justify-between gap-3">
           <span className="text-xl font-bold">{formattedDate}</span>
           <div>
             <Button
@@ -81,6 +91,9 @@ function LessonCard({
             </Button>
           </div>
         </CardTitle>
+        <Button variant="outline" onClick={() => setPracticeOpen(true)}>
+          Practice
+        </Button>
       </CardHeader>
       <CardContent className="flex flex-col gap-2">
         {lesson.words.map((word) => (
