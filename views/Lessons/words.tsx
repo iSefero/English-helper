@@ -8217,4 +8217,198 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "09.17.2026",
+    words: [
+      {
+        term: "between now and then",
+        translation: "відтепер і до того часу; у проміжку між цим і тим",
+        examples: [
+          <span>
+            I have a lot to do <strong>between now and then</strong>.
+          </span>,
+          <span>
+            We can discuss the details <strong>between now and then</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "though",
+        translation: "хоча; проте; однак",
+        examples: [
+          <span>
+            <strong>Though</strong> it was late, we decided to continue working.
+          </span>,
+          <span>
+            I like the idea. It may be expensive, <strong>though</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "up to a point",
+        translation: "до певної міри; частково",
+        examples: [
+          <span>
+            I agree with you <strong>up to a point</strong>.
+          </span>,
+          <span>
+            The plan worked <strong>up to a point</strong>, but then we had
+            problems.
+          </span>,
+        ],
+      },
+      {
+        term: "to be hungry for success",
+        translation: "дуже прагнути успіху; бути спраглим до успіху",
+        examples: [
+          <span>
+            She is <strong>hungry for success</strong> and works hard every day.
+          </span>,
+          <span>
+            Young athletes are often <strong>hungry for success</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "you can't beat",
+        translation: "ніщо не зрівняється з; важко перевершити",
+        examples: [
+          <span>
+            <strong>You can't beat</strong> a hot cup of tea on a cold day.
+          </span>,
+          <span>
+            For a quick dinner, <strong>you can't beat</strong> homemade pasta.
+          </span>,
+        ],
+      },
+      {
+        term: "to be certain of a result",
+        translation: "бути впевненим у результаті",
+        examples: [
+          <span>
+            We cannot <strong>be certain of the result</strong> yet.
+          </span>,
+          <span>
+            She wanted to <strong>be certain of the result</strong> before
+            making a decision.
+          </span>,
+        ],
+      },
+      {
+        term: "a proper rest",
+        translation: "повноцінний відпочинок",
+        examples: [
+          <span>
+            You need <strong>a proper rest</strong> after such a busy week.
+          </span>,
+          <span>
+            A weekend away gave me <strong>a proper rest</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "a gap year",
+        translation: "рік перерви між навчанням; академічна перерва",
+        examples: [
+          <span>
+            He took <strong>a gap year</strong> before going to university.
+          </span>,
+          <span>
+            During her <strong>gap year</strong>, she travelled and worked
+            abroad.
+          </span>,
+        ],
+      },
+      {
+        term: "hopefully",
+        translation: "сподіваюся; будемо сподіватися",
+        examples: [
+          <span>
+            <strong>Hopefully</strong>, the weather will be better tomorrow.
+          </span>,
+          <span>
+            <strong>Hopefully</strong>, we will finish the project on time.
+          </span>,
+        ],
+      },
+      {
+        term: "to pass exams with flying colours",
+        translation: "скласти іспити на відмінно; блискуче скласти іспити",
+        examples: [
+          <span>
+            She <strong>passed her exams with flying colours</strong>.
+          </span>,
+          <span>
+            If you study regularly, you can{" "}
+            <strong>pass the exam with flying colours</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to impose",
+        translation: "нав’язувати; запроваджувати",
+        examples: [
+          <span>
+            Don't <strong>impose</strong> your opinions on other people.
+          </span>,
+          <span>
+            The school <strong>imposed</strong> new rules this year.
+          </span>,
+        ],
+      },
+      {
+        term: "to switch to work",
+        translation: "перейти до роботи; переключитися на роботу",
+        examples: [
+          <span>
+            After lunch, I need to <strong>switch to work</strong>.
+          </span>,
+          <span>
+            It was difficult to <strong>switch to work</strong> after the
+            holidays.
+          </span>,
+        ],
+      },
+      {
+        term: "elderly people",
+        translation: "літні люди; люди похилого віку",
+        examples: [
+          <span>
+            This service helps <strong>elderly people</strong> live
+            independently.
+          </span>,
+          <span>
+            We should be patient and respectful towards{" "}
+            <strong>elderly people</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "exact sciences",
+        translation: "точні науки",
+        examples: [
+          <span>
+            Mathematics and physics are known as <strong>exact sciences</strong>
+            .
+          </span>,
+          <span>
+            She has always been interested in <strong>exact sciences</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "conscience",
+        translation: "совість",
+        examples: [
+          <span>
+            I couldn't lie to her because of my <strong>conscience</strong>.
+          </span>,
+          <span>
+            He has a clear <strong>conscience</strong> because he did the right
+            thing.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
