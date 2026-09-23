@@ -8411,4 +8411,225 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "09.22.2026",
+    words: [
+      {
+        term: "a feast",
+        translation: "бенкет; велике святкове частування",
+        examples: [
+          <span>
+            They prepared <strong>a feast</strong> for the wedding guests.
+          </span>,
+          <span>
+            After the harvest, the village held <strong>a feast</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "mussels",
+        translation: "мідії",
+        examples: [
+          <span>
+            We ordered steamed <strong>mussels</strong> for dinner.
+          </span>,
+          <span>
+            These <strong>mussels</strong> are served with garlic and lemon.
+          </span>,
+        ],
+      },
+      {
+        term: "to play truant",
+        translation: "прогулювати школу; пропускати уроки без причини",
+        examples: [
+          <span>
+            He was caught <strong>playing truant</strong> from school.
+          </span>,
+          <span>
+            She never <strong>played truant</strong> as a child.
+          </span>,
+        ],
+      },
+      {
+        term: "to tell off",
+        translation: "насварити; відчитати",
+        examples: [
+          <span>
+            The teacher <strong>told him off</strong> for being late.
+          </span>,
+          <span>
+            My mum <strong>told me off</strong> because I forgot to call.
+          </span>,
+        ],
+      },
+      {
+        term: "to pay fees",
+        translation: "сплачувати внески; платити за навчання або послуги",
+        examples: [
+          <span>
+            Students must <strong>pay their fees</strong> before the course
+            begins.
+          </span>,
+          <span>
+            Her parents helped her <strong>pay the university fees</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "appropriate behaviour",
+        translation: "належна; прийнятна поведінка",
+        examples: [
+          <span>
+            The school expects <strong>appropriate behaviour</strong> from all
+            students.
+          </span>,
+          <span>
+            Talking loudly during the meeting is not{" "}
+            <strong>appropriate behaviour</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to complain about",
+        translation: "скаржитися на",
+        examples: [
+          <span>
+            Several students <strong>complained about</strong> the difficult
+            test.
+          </span>,
+          <span>
+            He always <strong>complains about</strong> the weather.
+          </span>,
+        ],
+      },
+      {
+        term: "to behave",
+        translation: "поводитися",
+        examples: [
+          <span>
+            Please <strong>behave</strong> yourself while we are visiting them.
+          </span>,
+          <span>
+            The children <strong>behaved</strong> very well at the restaurant.
+          </span>,
+        ],
+      },
+      {
+        term: "compulsory",
+        translation: "обов’язковий",
+        examples: [
+          <span>
+            English is a <strong>compulsory</strong> subject at this school.
+          </span>,
+          <span>
+            Attendance at the meeting is <strong>compulsory</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "optional",
+        translation: "необов’язковий; на вибір",
+        examples: [
+          <span>
+            Art classes are <strong>optional</strong> for older students.
+          </span>,
+          <span>
+            The extra exercise is <strong>optional</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to set a test",
+        translation: "призначити; дати контрольну роботу або тест",
+        examples: [
+          <span>
+            Our teacher <strong>set a test</strong> for next Friday.
+          </span>,
+          <span>
+            She often <strong>sets tests</strong> at the end of each unit.
+          </span>,
+        ],
+      },
+      {
+        term: "to provide somebody with something",
+        translation: "забезпечувати когось чимось",
+        examples: [
+          <span>
+            The school <strong>provides students with</strong> all the necessary
+            books.
+          </span>,
+          <span>
+            This course will <strong>provide you with</strong> useful practical
+            skills.
+          </span>,
+        ],
+      },
+      {
+        term: "to provide for a family",
+        translation: "забезпечувати сім’ю",
+        examples: [
+          <span>
+            He works hard <strong>to provide for his family</strong>.
+          </span>,
+          <span>
+            Being able to <strong>provide for a family</strong> is important to
+            her.
+          </span>,
+        ],
+      },
+      {
+        term: "a breadwinner",
+        translation: "годувальник; людина, що забезпечує сім’ю",
+        examples: [
+          <span>
+            After his father lost his job, he became the main{" "}
+            <strong>breadwinner</strong>.
+          </span>,
+          <span>
+            She is the only <strong>breadwinner</strong> in the family.
+          </span>,
+        ],
+      },
+      {
+        term: "to apply to university",
+        translation: "подавати заявку до університету",
+        examples: [
+          <span>
+            She plans <strong>to apply to university</strong> next year.
+          </span>,
+          <span>
+            You need good exam results <strong>to apply to university</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "an approach to teaching",
+        translation: "підхід до викладання",
+        examples: [
+          <span>
+            Her creative <strong>approach to teaching</strong> keeps students
+            interested.
+          </span>,
+          <span>
+            The school uses a modern <strong>approach to teaching</strong>{" "}
+            languages.
+          </span>,
+        ],
+      },
+      {
+        term: "to memorise information",
+        translation: "запам’ятовувати інформацію",
+        examples: [
+          <span>
+            It is easier <strong>to memorise information</strong> when you
+            understand it.
+          </span>,
+          <span>
+            Some students use flashcards{" "}
+            <strong>to memorise information</strong>.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
