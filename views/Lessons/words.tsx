@@ -8632,4 +8632,339 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "10.08.2026",
+    words: [
+      {
+        term: "to fight off a cold",
+        translation: "боротися із застудою; не дати застуді розвинутися",
+        examples: [
+          <span>
+            I drank tea with lemon to <strong>fight off a cold</strong>.
+          </span>,
+          <span>
+            Getting enough sleep can help you <strong>fight off a cold</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to get over a cold",
+        translation: "одужати після застуди",
+        examples: [
+          <span>
+            It took me a week to <strong>get over my cold</strong>.
+          </span>,
+          <span>
+            She is still trying to <strong>get over a cold</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "a bathrobe",
+        translation: "халат",
+        examples: [
+          <span>
+            He put on his <strong>bathrobe</strong> after taking a shower.
+          </span>,
+          <span>
+            She was drinking coffee in her <strong>bathrobe</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "a health centre",
+        translation: "медичний центр; поліклініка",
+        examples: [
+          <span>
+            There is a new <strong>health centre</strong> near my house.
+          </span>,
+          <span>
+            You can make an appointment at the local{" "}
+            <strong>health centre</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "whether",
+        translation: "чи",
+        examples: [
+          <span>
+            I don't know <strong>whether</strong> he is feeling better.
+          </span>,
+          <span>
+            She asked <strong>whether</strong> I had seen a doctor.
+          </span>,
+        ],
+      },
+      {
+        term: "to feel under the weather",
+        translation: "почуватися недобре; нездужати",
+        examples: [
+          <span>
+            I'm feeling a bit <strong>under the weather</strong> today.
+          </span>,
+          <span>
+            He stayed at home because he <strong>felt under the weather</strong>
+            .
+          </span>,
+        ],
+      },
+      {
+        term: "hay fever",
+        translation: "сінна лихоманка; сезонна алергія на пилок",
+        examples: [
+          <span>
+            My <strong>hay fever</strong> gets worse in spring.
+          </span>,
+          <span>
+            She takes medicine for <strong>hay fever</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "herring",
+        translation: "оселедець",
+        examples: [
+          <span>
+            We had potatoes and <strong>herring</strong> for dinner.
+          </span>,
+          <span>
+            My grandfather likes salted <strong>herring</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "an asthma attack / episode",
+        translation: "напад астми",
+        examples: [
+          <span>
+            He had <strong>an asthma attack</strong> after running in cold air.
+          </span>,
+          <span>
+            She always carries an inhaler in case of{" "}
+            <strong>an asthma episode</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to threaten",
+        translation: "погрожувати; становити загрозу",
+        examples: [
+          <span>
+            The doctor said the infection could <strong>threaten</strong> his
+            health.
+          </span>,
+          <span>
+            Dark clouds <strong>threatened</strong> rain.
+          </span>,
+        ],
+      },
+      {
+        term: "a mild headache",
+        translation: "легкий головний біль",
+        examples: [
+          <span>
+            I have <strong>a mild headache</strong>, but I can still work.
+          </span>,
+          <span>
+            A glass of water helped with my <strong>mild headache</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "a severe headache",
+        translation: "сильний головний біль",
+        examples: [
+          <span>
+            She went home because she had <strong>a severe headache</strong>.
+          </span>,
+          <span>
+            A <strong>severe headache</strong> can make it hard to concentrate.
+          </span>,
+        ],
+      },
+      {
+        term: "to suffer from",
+        translation: "страждати від",
+        examples: [
+          <span>
+            He <strong>suffers from</strong> seasonal allergies.
+          </span>,
+          <span>
+            Many people <strong>suffer from</strong> back pain.
+          </span>,
+        ],
+      },
+      {
+        term: "a severe illness",
+        translation: "важка хвороба",
+        examples: [
+          <span>
+            He was recovering from <strong>a severe illness</strong>.
+          </span>,
+          <span>
+            Early treatment can prevent <strong>a severe illness</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to affect",
+        translation: "впливати на; уражати",
+        examples: [
+          <span>
+            The virus can <strong>affect</strong> the lungs.
+          </span>,
+          <span>
+            Lack of sleep <strong>affects</strong> your mood.
+          </span>,
+        ],
+      },
+      {
+        term: "blood vessels",
+        translation: "кровоносні судини",
+        examples: [
+          <span>
+            Smoking can damage your <strong>blood vessels</strong>.
+          </span>,
+          <span>
+            Exercise helps keep <strong>blood vessels</strong> healthy.
+          </span>,
+        ],
+      },
+      {
+        term: "to sneeze",
+        translation: "чхати",
+        examples: [
+          <span>
+            I started <strong>sneezing</strong> because of the dust.
+          </span>,
+          <span>
+            He couldn't stop <strong>sneezing</strong> during the meeting.
+          </span>,
+        ],
+      },
+      {
+        term: "I was sick",
+        translation: "я хворів / хворіла; мені було погано",
+        examples: [
+          <span>
+            I missed school because <strong>I was sick</strong>.
+          </span>,
+          <span>
+            <strong>I was sick</strong> last week, but I feel fine now.
+          </span>,
+        ],
+      },
+      {
+        term: "to throw up",
+        translation: "блювати; вирвати",
+        examples: [
+          <span>
+            The child <strong>threw up</strong> after eating too much cake.
+          </span>,
+          <span>
+            I felt so sick that I thought I was going to{" "}
+            <strong>throw up</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to puke",
+        translation: "блювати; вирватися (розмовне, грубіше)",
+        examples: [
+          <span>
+            He felt like he was going to <strong>puke</strong>.
+          </span>,
+          <span>
+            The smell made her <strong>puke</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to get a horrible red rash",
+        translation: "отримати жахливий червоний висип",
+        examples: [
+          <span>
+            She <strong>got a horrible red rash</strong> after using the new
+            cream.
+          </span>,
+          <span>
+            I <strong>got a horrible red rash</strong> on my arms.
+          </span>,
+        ],
+      },
+      {
+        term: "to get out of breath",
+        translation: "задихатися; захекатися",
+        examples: [
+          <span>
+            I <strong>get out of breath</strong> when I run upstairs.
+          </span>,
+          <span>
+            He was <strong>out of breath</strong> after chasing the bus.
+          </span>,
+        ],
+      },
+      {
+        term: "it didn't work",
+        translation: "це не спрацювало; це не подіяло",
+        examples: [
+          <span>
+            I took some medicine, but <strong>it didn't work</strong>.
+          </span>,
+          <span>
+            We tried to fix the computer, but <strong>it didn't work</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "my whole body aches",
+        translation: "у мене болить усе тіло; ломить усе тіло",
+        examples: [
+          <span>
+            I have the flu and <strong>my whole body aches</strong>.
+          </span>,
+          <span>
+            After the workout, <strong>my whole body ached</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to swallow",
+        translation: "ковтати; проковтнути",
+        examples: [
+          <span>
+            It hurts to <strong>swallow</strong> because my throat is sore.
+          </span>,
+          <span>
+            Take the pill with water and <strong>swallow</strong> it whole.
+          </span>,
+        ],
+      },
+      {
+        term: "to sweat",
+        translation: "пітніти",
+        examples: [
+          <span>
+            I began to <strong>sweat</strong> because I had a fever.
+          </span>,
+          <span>
+            People <strong>sweat</strong> more when it is hot.
+          </span>,
+        ],
+      },
+      {
+        term: "itchy",
+        translation: "сверблячий; такий, що свербить",
+        examples: [
+          <span>
+            This mosquito bite is very <strong>itchy</strong>.
+          </span>,
+          <span>
+            My eyes feel <strong>itchy</strong> because of my allergy.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
