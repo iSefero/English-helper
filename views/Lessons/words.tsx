@@ -8967,4 +8967,208 @@ export const lessons = [
       },
     ],
   },
+  {
+    date: "10.13.2026",
+    words: [
+      {
+        term: "to ache",
+        translation: "боліти; нити",
+        examples: [
+          <span>
+            My legs <strong>ache</strong> after a long walk.
+          </span>,
+          <span>
+            Her tooth has been <strong>aching</strong> all day.
+          </span>,
+        ],
+      },
+      {
+        term: "poor thing",
+        translation: "бідолашний / бідолашна; бідненький / бідненька",
+        examples: [
+          <span>
+            <strong>Poor thing</strong>, you must be exhausted after such a long
+            day.
+          </span>,
+          <span>
+            <strong>Poor thing</strong>, the dog was left outside in the rain.
+          </span>,
+        ],
+      },
+      {
+        term: "to spread",
+        translation: "поширювати(ся); розповсюджувати(ся)",
+        examples: [
+          <span>
+            The infection can <strong>spread</strong> quickly in crowded places.
+          </span>,
+          <span>
+            She <strong>spread</strong> butter on a piece of bread.
+          </span>,
+        ],
+      },
+      {
+        term: "ought to",
+        translation: "слід; варто; повинен / повинна",
+        examples: [
+          <span>
+            You <strong>ought to</strong> see a doctor if you feel worse.
+          </span>,
+          <span>
+            We <strong>ought to</strong> leave before it gets dark.
+          </span>,
+        ],
+      },
+      {
+        term: "to go on a diet",
+        translation: "сісти на дієту",
+        examples: [
+          <span>
+            He decided <strong>to go on a diet</strong> after the holidays.
+          </span>,
+          <span>
+            You do not need <strong>to go on a diet</strong> to eat healthily.
+          </span>,
+        ],
+      },
+      {
+        term: "to keep a diet",
+        translation: "дотримуватися дієти",
+        examples: [
+          <span>
+            It can be difficult <strong>to keep a diet</strong> while
+            travelling.
+          </span>,
+          <span>
+            She has to <strong>keep a strict diet</strong> for health reasons.
+          </span>,
+        ],
+      },
+      {
+        term: "Why don't you...?",
+        translation: "чому б тобі / вам не...?",
+        examples: [
+          <span>
+            <strong>Why don't you</strong> take a short break?
+          </span>,
+          <span>
+            <strong>Why don't you</strong> come over for dinner tonight?
+          </span>,
+        ],
+      },
+      {
+        term: "to put on weight",
+        translation: "набрати вагу",
+        examples: [
+          <span>
+            Some people <strong>put on weight</strong> when they stop
+            exercising.
+          </span>,
+          <span>
+            He has <strong>put on weight</strong> since last year.
+          </span>,
+        ],
+      },
+      {
+        term: "a plump person",
+        translation: "повна людина; пухкенька людина",
+        examples: [
+          <span>
+            He was a cheerful, <strong>plump person</strong> with a kind smile.
+          </span>,
+          <span>
+            Calling someone <strong>plump</strong> may sound impolite in some
+            situations.
+          </span>,
+        ],
+      },
+      {
+        term: "to sort the problem out",
+        translation: "розібратися з проблемою; вирішити проблему",
+        examples: [
+          <span>
+            Don't worry, we will <strong>sort the problem out</strong>.
+          </span>,
+          <span>
+            She called customer support to <strong>sort out the problem</strong>
+            .
+          </span>,
+        ],
+      },
+      {
+        term: "to solve the problem",
+        translation: "вирішити проблему",
+        examples: [
+          <span>
+            We need more time <strong>to solve the problem</strong>.
+          </span>,
+          <span>
+            They finally <strong>solved the problem</strong> together.
+          </span>,
+        ],
+      },
+      {
+        term: "to work the problem out",
+        translation: "розв’язати; зрозуміти, як вирішити проблему",
+        examples: [
+          <span>
+            I need a few minutes <strong>to work the problem out</strong>.
+          </span>,
+          <span>
+            She <strong>worked out the problem</strong> without anyone's help.
+          </span>,
+        ],
+      },
+      {
+        term: "to come over for dinner",
+        translation: "прийти в гості на вечерю",
+        examples: [
+          <span>
+            Would you like <strong>to come over for dinner</strong> on Friday?
+          </span>,
+          <span>
+            My neighbours <strong>came over for dinner</strong> last night.
+          </span>,
+        ],
+      },
+      {
+        term: "to lower expectations / demands",
+        translation: "знизити очікування / вимоги",
+        examples: [
+          <span>
+            The teacher had to <strong>lower her expectations</strong> for the
+            group.
+          </span>,
+          <span>
+            The company refused <strong>to lower its demands</strong>.
+          </span>,
+        ],
+      },
+      {
+        term: "to set a notification",
+        translation: "налаштувати сповіщення",
+        examples: [
+          <span>
+            Don't forget <strong>to set a notification</strong> for the meeting.
+          </span>,
+          <span>
+            I <strong>set a notification</strong> to remind myself to take the
+            medicine.
+          </span>,
+        ],
+      },
+      {
+        term: "seize the day",
+        translation: "ловити момент; користуватися моментом",
+        examples: [
+          <span>
+            You only get one chance, so <strong>seize the day</strong>.
+          </span>,
+          <span>
+            She decided to <strong>seize the day</strong> and apply for the job.
+          </span>,
+        ],
+      },
+    ],
+  },
 ];
